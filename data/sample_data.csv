@@ -1,0 +1,501 @@
+Address,Rent,Beds,Baths,Type,Area_in_sqft,Rent_per_sqft,Rent_category,Frequency,Furnishing,Purpose,Posted_date,Age_of_listing_in_days,Location,City,Latitude,Longitude
+"The Gate Tower 2, The Gate Tower, Shams Gate District, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",124000,3,4,Apartment,1785,69.46778711484593,Medium,Yearly,Unfurnished,For Rent,2024-03-07,45,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Water's Edge, Yas Island, Abu Dhabi",140000,3,4,Apartment,1422,98.45288326300984,Medium,Yearly,Unfurnished,For Rent,2024-03-08,44,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Al Raha Lofts, Al Raha Beach, Abu Dhabi",99000,2,3,Apartment,1314,75.34246575342466,Medium,Yearly,Furnished,For Rent,2024-03-21,31,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Marina Heights, Marina Square, Al Reem Island, Abu Dhabi",220000,3,4,Penthouse,3843,57.24694249284413,High,Yearly,Unfurnished,For Rent,2024-02-24,57,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"West Yas, Yas Island, Abu Dhabi",350000,5,7,Villa,6860,51.02040816326531,High,Yearly,Unfurnished,For Rent,2024-02-16,65,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Reflection, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",75000,1,1,Apartment,706,106.23229461756374,Medium,Yearly,Furnished,For Rent,2023-12-12,131,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Water's Edge, Yas Island, Abu Dhabi",65000,1,1,Apartment,698,93.12320916905443,Low,Yearly,Unfurnished,For Rent,2024-03-11,41,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Noya, Yas Island, Abu Dhabi",170000,3,4,Townhouse,1989,85.47008547008546,High,Yearly,Unfurnished,For Rent,2024-02-22,59,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Ansam 3, Ansam, Yas Island, Abu Dhabi",75000,1,2,Apartment,886,84.65011286681715,Medium,Yearly,Unfurnished,For Rent,2024-04-05,16,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Marina Heights I, Marina Heights, Marina Square, Al Reem Island, Abu Dhabi",160000,2,3,Apartment,1430,111.8881118881119,High,Yearly,Unfurnished,For Rent,2024-04-05,16,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Bloom Marina, Al Bateen, Abu Dhabi",110000,2,2,Apartment,1356,81.12094395280236,Medium,Yearly,Unfurnished,For Rent,2023-01-29,448,Al Bateen,Abu Dhabi,24.2048941,55.6196612
+"Noya, Yas Island, Abu Dhabi",174000,3,4,Townhouse,1816,95.81497797356828,High,Yearly,Unfurnished,For Rent,2024-03-25,27,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"West Yas, Yas Island, Abu Dhabi",330000,5,7,Villa,5907,55.865921787709496,High,Yearly,Unfurnished,For Rent,2024-03-22,30,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Contemporary Style, Al Reef Villas, Al Reef, Abu Dhabi",149000,5,6,Villa,3750,39.73333333333333,High,Yearly,Unfurnished,For Rent,2024-04-02,19,Al Reef,Abu Dhabi,24.4664366,54.65689142777212
+"Fairmont Marina Residences, The Marina, Abu Dhabi",150000,1,2,Apartment,1022,146.7710371819961,High,Yearly,Furnished,For Rent,2024-03-18,34,The Marina,Abu Dhabi,24.479853,54.319951
+"Building 45, Al Reef Downtown, Al Reef, Abu Dhabi",80000,2,2,Apartment,1477,54.16384563303995,Medium,Yearly,Unfurnished,For Rent,2024-03-14,38,Al Reef,Abu Dhabi,24.4664366,54.65689142777212
+"Marina Heights I, Marina Heights, Marina Square, Al Reem Island, Abu Dhabi",125000,3,4,Apartment,1744,71.6743119266055,Medium,Yearly,Unfurnished,For Rent,2023-12-01,142,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Contemporary Style, Al Reef Villas, Al Reef, Abu Dhabi",129995,4,5,Villa,2828,45.96711456859972,Medium,Yearly,Unfurnished,For Rent,2024-03-11,41,Al Reef,Abu Dhabi,24.4664366,54.65689142777212
+"Building 26, Al Reef Downtown, Al Reef, Abu Dhabi",62900,2,2,Apartment,1237,50.84882780921585,Low,Yearly,Unfurnished,For Rent,2024-04-02,19,Al Reef,Abu Dhabi,24.4664366,54.65689142777212
+"Noya, Yas Island, Abu Dhabi",145000,2,4,Townhouse,1821,79.62657880285558,High,Yearly,Unfurnished,For Rent,2024-02-27,54,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Al Heel Tower, Al Khalidiyah, Abu Dhabi",95000,3,3,Apartment,1689,56.24629958555358,Medium,Yearly,Unfurnished,For Rent,2023-01-29,448,Al Khalidiyah,Abu Dhabi,24.46934445,54.34880593499775
+"Bloom Central Residential, Bloom Central, Al Tibbiya, Abu Dhabi",140000,3,3,Apartment,2195,63.78132118451025,Medium,Yearly,Unfurnished,For Rent,2024-03-06,46,Al Tibbiya,Abu Dhabi,,
+"Water's Edge, Yas Island, Abu Dhabi",50000,0,1,Apartment,490,102.04081632653062,Low,Yearly,Unfurnished,For Rent,2024-03-29,23,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Noya, Yas Island, Abu Dhabi",180000,3,4,Townhouse,1816,99.11894273127751,High,Yearly,Unfurnished,For Rent,2024-02-28,53,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Al Maha Tower, Marina Square, Al Reem Island, Abu Dhabi",60000,1,2,Apartment,861,69.68641114982579,Low,Yearly,Unfurnished,For Rent,2024-03-30,22,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Al Waha Tower, Al Khalidiyah, Abu Dhabi",85000,3,3,Apartment,1819,46.728971962616825,Medium,Yearly,Unfurnished,For Rent,2023-01-29,448,Al Khalidiyah,Abu Dhabi,24.46934445,54.34880593499775
+"Al Heel Tower, Al Khalidiyah, Abu Dhabi",75000,2,2,Apartment,1228,61.074918566775246,Medium,Yearly,Unfurnished,For Rent,2023-01-29,448,Al Khalidiyah,Abu Dhabi,24.46934445,54.34880593499775
+"Noya, Yas Island, Abu Dhabi",150000,2,4,Townhouse,1335,112.35955056179776,High,Yearly,Unfurnished,For Rent,2024-02-15,66,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Al Reef Downtown, Al Reef, Abu Dhabi",47999,1,2,Apartment,850,56.46941176470588,Low,Yearly,Unfurnished,For Rent,2024-02-13,68,Al Reef,Abu Dhabi,24.4664366,54.65689142777212
+"Noya, Yas Island, Abu Dhabi",170000,3,4,Townhouse,1816,93.61233480176212,High,Yearly,Unfurnished,For Rent,2024-04-06,15,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Sun Tower, Shams Gate District, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",104999,2,2,Apartment,1240,84.6766129032258,Medium,Yearly,Unfurnished,For Rent,2024-01-15,97,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Ocean Terrace Residence, Marina Square, Al Reem Island, Abu Dhabi",109900,2,3,Apartment,1507,72.92634372926344,Medium,Yearly,Unfurnished,For Rent,2024-03-21,31,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Bloom Marina, Al Bateen, Abu Dhabi",105000,2,3,Apartment,1260,83.33333333333333,Medium,Yearly,Unfurnished,For Rent,2023-01-29,448,Al Bateen,Abu Dhabi,24.2048941,55.6196612
+"The Cedars, Yas Acres, Yas Island, Abu Dhabi",260000,3,4,Townhouse,3390,76.69616519174042,High,Yearly,Unfurnished,For Rent,2024-02-06,75,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Building 20, Al Reef Downtown, Al Reef, Abu Dhabi",65999,2,2,Apartment,1237,53.35408245755861,Medium,Yearly,Unfurnished,For Rent,2023-12-18,125,Al Reef,Abu Dhabi,24.4664366,54.65689142777212
+"Noya, Yas Island, Abu Dhabi",175000,3,4,Townhouse,1753,99.82886480319452,High,Yearly,Unfurnished,For Rent,2024-02-04,77,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Al Tharwaniyah Community, Al Raha Gardens, Abu Dhabi",235000,5,8,Villa,6217,37.79958179186102,High,Yearly,Unfurnished,For Rent,2023-12-05,138,Al Raha Gardens,Abu Dhabi,24.42772055,54.55168867992076
+"Zone 36, Mohammed Bin Zayed City, Abu Dhabi",43999,1,1,Apartment,1200,36.66583333333333,Low,Yearly,Unfurnished,For Rent,2023-12-01,142,Mohammed Bin Zayed City,Abu Dhabi,24.3339589,54.5535564
+"Desert Style, Al Reef Villas, Al Reef, Abu Dhabi",75000,2,3,Villa,1210,61.98347107438016,Medium,Yearly,Unfurnished,For Rent,2023-11-23,150,Al Reef,Abu Dhabi,24.4664366,54.65689142777212
+"Pixel, Makers District, Al Reem Island, Abu Dhabi",180000,3,4,Apartment,1567,114.8691767708998,High,Yearly,Unfurnished,For Rent,2024-01-11,101,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Mediterranean Style, Al Reef Villas, Al Reef, Abu Dhabi",78000,2,3,Villa,1832,42.5764192139738,Medium,Yearly,Unfurnished,For Rent,2023-11-21,152,Al Reef,Abu Dhabi,24.4664366,54.65689142777212
+"Zone 12, Mohammed Bin Zayed City, Abu Dhabi",140000,4,4,Villa,3716,37.67491926803014,Medium,Yearly,Unfurnished,For Rent,2023-11-07,166,Mohammed Bin Zayed City,Abu Dhabi,24.3339589,54.5535564
+"MSH16, Shakhbout City, Abu Dhabi",135000,5,5,Villa,15480,8.720930232558139,Medium,Yearly,Unfurnished,For Rent,2023-11-07,166,Shakhbout City,Abu Dhabi,24.3594999,54.63233435459003
+"Al Reef Villas, Al Reef, Abu Dhabi",100000,3,4,Villa,2424,41.254125412541256,Medium,Yearly,Unfurnished,For Rent,2023-10-23,181,Al Reef,Abu Dhabi,24.4664366,54.65689142777212
+"Madinat Al Riyadh, Abu Dhabi",17999,0,1,Apartment,650,27.69076923076923,Low,Yearly,Unfurnished,For Rent,2023-10-31,173,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"Bloom Central Residential, Bloom Central, Al Tibbiya, Abu Dhabi",115000,2,2,Apartment,1646,69.86634264884569,Medium,Yearly,Unfurnished,For Rent,2023-02-13,433,Al Tibbiya,Abu Dhabi,,
+"Fairmont Marina Residences, The Marina, Abu Dhabi",250000,2,2,Apartment,1783,140.21312394840157,High,Yearly,Furnished,For Rent,2023-12-07,136,The Marina,Abu Dhabi,24.479853,54.319951
+"Noya, Yas Island, Abu Dhabi",175000,3,4,Townhouse,1851,94.54349000540248,High,Yearly,Unfurnished,For Rent,2024-03-17,35,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Arabian Style, Al Reef Villas, Al Reef, Abu Dhabi",109998,3,4,Villa,2424,45.37871287128713,Medium,Yearly,Unfurnished,For Rent,2024-01-29,83,Al Reef,Abu Dhabi,24.4664366,54.65689142777212
+"Desert Style, Al Reef Villas, Al Reef, Abu Dhabi",130000,3,4,Villa,1874,69.37033084311634,Medium,Yearly,Unfurnished,For Rent,2024-03-04,48,Al Reef,Abu Dhabi,24.4664366,54.65689142777212
+"Noya, Yas Island, Abu Dhabi",144998,2,3,Townhouse,1816,79.84471365638767,High,Yearly,Unfurnished,For Rent,2024-02-07,74,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Desert Style, Al Reef Villas, Al Reef, Abu Dhabi",105000,3,4,Villa,2424,43.31683168316832,Medium,Yearly,Unfurnished,For Rent,2024-01-16,96,Al Reef,Abu Dhabi,24.4664366,54.65689142777212
+"Madinat Al Riyadh, Abu Dhabi",38000,1,1,Apartment,950,40.0,Low,Yearly,Unfurnished,For Rent,2024-04-09,12,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"Madinat Al Riyadh, Abu Dhabi",25000,0,1,Apartment,566,44.169611307420496,Low,Yearly,Unfurnished,For Rent,2024-04-09,12,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"Madinat Al Riyadh, Abu Dhabi",37000,1,2,Apartment,1049,35.27168732125834,Low,Yearly,Unfurnished,For Rent,2024-04-09,12,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"Madinat Al Riyadh, Abu Dhabi",27000,1,1,Apartment,988,27.327935222672064,Low,Yearly,Unfurnished,For Rent,2024-04-09,12,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"The Wave, Najmat Abu Dhabi, Al Reem Island, Abu Dhabi",85000,2,3,Apartment,1350,62.96296296296296,Medium,Yearly,Unfurnished,For Rent,2024-04-07,14,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Corniche Area, Abu Dhabi",100000,3,4,Apartment,2000,50.0,Medium,Yearly,Unfurnished,For Rent,2024-02-23,58,Corniche Area,Abu Dhabi,24.484107,54.35067
+"Noya, Yas Island, Abu Dhabi",240000,4,5,Villa,2250,106.66666666666669,High,Yearly,Unfurnished,For Rent,2024-02-03,78,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Madinat Al Riyadh, Abu Dhabi",18000,0,1,Apartment,700,25.714285714285715,Low,Yearly,Unfurnished,For Rent,2024-04-09,12,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"Madinat Al Riyadh, Abu Dhabi",16000,0,1,Apartment,699,22.889842632331906,Low,Yearly,Unfurnished,For Rent,2024-04-09,12,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"Madinat Al Riyadh, Abu Dhabi",35000,1,1,Apartment,1020,34.31372549019608,Low,Yearly,Unfurnished,For Rent,2024-04-09,12,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"Sigma Tower 2, Sigma Towers, City of Lights, Al Reem Island, Abu Dhabi",80000,2,3,Apartment,1275,62.74509803921568,Medium,Yearly,Unfurnished,For Rent,2024-04-07,14,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Al Muroor, Abu Dhabi",155000,5,5,Villa,5500,28.181818181818183,High,Yearly,Unfurnished,For Rent,2024-04-08,13,Al Muroor,Abu Dhabi,24.476252,54.3726749
+"Madinat Al Riyadh, Abu Dhabi",22000,0,1,Apartment,699,31.473533619456365,Low,Yearly,Unfurnished,For Rent,2024-04-09,12,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"Madinat Al Riyadh, Abu Dhabi",31000,1,1,Apartment,988,31.37651821862348,Low,Yearly,Unfurnished,For Rent,2024-04-09,12,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"Madinat Al Riyadh, Abu Dhabi",27000,1,1,Apartment,900,30.0,Low,Yearly,Unfurnished,For Rent,2024-04-08,13,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"Madinat Al Riyadh, Abu Dhabi",12000,0,1,Apartment,650,18.46153846153846,Low,Yearly,Unfurnished,For Rent,2024-04-09,12,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"Madinat Al Riyadh, Abu Dhabi",24000,0,1,Apartment,800,30.0,Low,Yearly,Unfurnished,For Rent,2024-04-08,13,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"Shakhbout City, Abu Dhabi",31000,0,1,Apartment,899,34.48275862068966,Low,Yearly,Furnished,For Rent,2024-04-07,14,Shakhbout City,Abu Dhabi,24.3594999,54.63233435459003
+"Madinat Al Riyadh, Abu Dhabi",23000,0,1,Apartment,700,32.857142857142854,Low,Yearly,Unfurnished,For Rent,2024-04-08,13,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"Marina Bay By DAMAC, Najmat Abu Dhabi, Al Reem Island, Abu Dhabi",85000,2,3,Apartment,1170,72.64957264957265,Medium,Yearly,Furnished,For Rent,2024-04-06,15,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Marina Bay, City of Lights, Al Reem Island, Abu Dhabi",55000,1,2,Apartment,805,68.32298136645963,Low,Yearly,Unfurnished,For Rent,2024-04-07,14,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Al Mariah Community, Al Raha Gardens, Abu Dhabi",220000,5,6,Villa,6110,36.00654664484452,High,Yearly,Unfurnished,For Rent,2024-04-05,16,Al Raha Gardens,Abu Dhabi,24.42772055,54.55168867992076
+"Rihan Heights Tower A, Rihan Heights Towers, Zayed Sports City, Abu Dhabi",118000,2,3,Apartment,1450,81.37931034482759,Medium,Yearly,Unfurnished,For Rent,2024-04-07,14,Zayed Sports City,Abu Dhabi,24.4177935,54.447876
+"Khalifa City, Abu Dhabi",28000,0,1,Apartment,600,46.66666666666666,Low,Yearly,Unfurnished,For Rent,2023-03-24,394,Khalifa City,Abu Dhabi,24.4201314,54.57495352587594
+"Hamdan Street, Abu Dhabi",50000,1,1,Apartment,1020,49.01960784313726,Low,Yearly,Unfurnished,For Rent,2024-04-06,15,Hamdan Street,Abu Dhabi,24.2425603,55.7121184
+"Al Bahia, Abu Dhabi",240000,6,7,Villa,6500,36.92307692307692,High,Yearly,Unfurnished,For Rent,2024-04-06,15,Al Bahia,Abu Dhabi,24.5140484,54.66308214538901
+"Khalifa City, Abu Dhabi",159999,6,9,Villa,8001,19.99737532808399,High,Yearly,Unfurnished,For Rent,2024-04-07,14,Khalifa City,Abu Dhabi,24.4201314,54.57495352587594
+"Rihan Heights Tower A, Rihan Heights Towers, Zayed Sports City, Abu Dhabi",139000,3,3,Apartment,2100,66.19047619047619,Medium,Yearly,Unfurnished,For Rent,2024-04-07,14,Zayed Sports City,Abu Dhabi,24.4177935,54.447876
+"Oasis Residences One, Oasis Residences, Masdar City, Abu Dhabi",45000,0,1,Apartment,410,109.7560975609756,Low,Yearly,Unfurnished,For Rent,2024-04-05,16,Masdar City,Abu Dhabi,24.42748265,54.6234876171374
+"Shakhbout City, Abu Dhabi",160000,5,7,Villa,8200,19.51219512195122,High,Yearly,Unfurnished,For Rent,2024-04-07,14,Shakhbout City,Abu Dhabi,24.3594999,54.63233435459003
+"Marina Bay, City of Lights, Al Reem Island, Abu Dhabi",78000,2,3,Apartment,1140,68.42105263157895,Medium,Yearly,Unfurnished,For Rent,2024-04-07,14,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Water's Edge, Yas Island, Abu Dhabi",90000,2,2,Apartment,1172,76.79180887372014,Medium,Yearly,Unfurnished,For Rent,2024-04-04,17,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Al Najda Street, Abu Dhabi",70000,3,3,Apartment,1760,39.77272727272727,Medium,Yearly,Unfurnished,For Rent,2024-04-06,15,Al Najda Street,Abu Dhabi,24.4913003,54.3695437
+"Madinat Al Riyadh, Abu Dhabi",150000,6,10,Villa,8000,18.75,High,Yearly,Unfurnished,For Rent,2024-04-05,16,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"Water's Edge, Yas Island, Abu Dhabi",74999,1,1,Apartment,698,107.4484240687679,Medium,Yearly,Unfurnished,For Rent,2024-04-04,17,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Building 15, Al Reef Downtown, Al Reef, Abu Dhabi",65000,2,2,Apartment,1237,52.54648342764754,Low,Yearly,Unfurnished,For Rent,2024-04-06,15,Al Reef,Abu Dhabi,24.4664366,54.65689142777212
+"Water's Edge, Yas Island, Abu Dhabi",60000,1,2,Apartment,1075,55.81395348837209,Low,Yearly,Unfurnished,For Rent,2024-04-04,17,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Al Marasy, Al Bateen, Abu Dhabi",140000,2,3,Apartment,1480,94.5945945945946,Medium,Yearly,Unfurnished,For Rent,2024-04-03,18,Al Bateen,Abu Dhabi,24.45138385,54.33796581892305
+"Muroor Road, Al Muroor, Abu Dhabi",250000,6,8,Villa,6405,39.032006245121,High,Yearly,Unfurnished,For Rent,2024-04-06,15,Al Muroor,Abu Dhabi,24.476252,54.3726749
+"Tourist Club Area (TCA), Abu Dhabi",66000,2,2,Apartment,1237,53.35489086499596,Medium,Yearly,Unfurnished,For Rent,2024-04-05,16,Tourist Club Area (TCA),Abu Dhabi,24.495946,54.381815
+"Al Naseem Residence C, Al Naseem, Al Bandar, Al Raha Beach, Abu Dhabi",250000,3,4,Apartment,2335,107.06638115631692,High,Yearly,Unfurnished,For Rent,2024-04-05,16,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Ministries Complex, Al Matar, Abu Dhabi",59900,1,1,Apartment,920,65.1086956521739,Low,Yearly,Unfurnished,For Rent,2024-03-23,29,Al Matar,Abu Dhabi,24.4352701,54.4406788
+"Al Shamkha, Abu Dhabi",95000,4,4,Apartment,2300,41.30434782608695,Medium,Yearly,Unfurnished,For Rent,2024-04-06,15,Al Shamkha,Abu Dhabi,24.3866584,54.7074507
+"Al Raha Beach, Abu Dhabi",200000,3,5,Apartment,3192,62.65664160401003,High,Yearly,Unfurnished,For Rent,2024-04-05,16,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Al Bateen, Abu Dhabi",190000,6,7,Villa,6200,30.64516129032258,High,Yearly,Unfurnished,For Rent,2024-04-03,18,Al Bateen,Abu Dhabi,24.45138385,54.33796581892305
+"Khalifa City, Abu Dhabi",18000,0,1,Apartment,350,51.42857142857143,Low,Yearly,Unfurnished,For Rent,2024-04-07,14,Khalifa City,Abu Dhabi,24.4201314,54.57495352587594
+"Marina Bay Tower 2, Marina Bay, City of Lights, Al Reem Island, Abu Dhabi",110000,3,4,Apartment,1673,65.7501494321578,Medium,Yearly,Unfurnished,For Rent,2024-04-03,18,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Khalidiyah Street, Al Khalidiyah, Abu Dhabi",70000,3,4,Apartment,1900,36.8421052631579,Medium,Yearly,Unfurnished,For Rent,2024-04-04,17,Al Khalidiyah,Abu Dhabi,24.46934445,54.34880593499775
+"Al Marasy, Al Bateen, Abu Dhabi",140000,2,3,Apartment,1575,88.88888888888889,Medium,Yearly,Unfurnished,For Rent,2024-04-03,18,Al Bateen,Abu Dhabi,24.45138385,54.33796581892305
+"Al Raha Lofts, Al Raha Beach, Abu Dhabi",110000,2,3,Apartment,1600,68.75,Medium,Yearly,Furnished,For Rent,2024-03-30,22,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Ansam 1, Ansam, Yas Island, Abu Dhabi",80000,1,2,Apartment,950,84.21052631578948,Medium,Yearly,Unfurnished,For Rent,2024-04-04,17,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Khalifa City, Abu Dhabi",150000,5,6,Villa,2500,60.0,High,Yearly,Unfurnished,For Rent,2024-04-04,17,Khalifa City,Abu Dhabi,24.4201314,54.57495352587594
+"Hamdan Street, Abu Dhabi",42000,1,1,Apartment,850,49.41176470588236,Low,Yearly,Unfurnished,For Rent,2024-04-05,16,Hamdan Street,Abu Dhabi,24.2479318,55.717251
+"Rawdhat Abu Dhabi, Abu Dhabi",72000,2,2,Apartment,1400,51.42857142857143,Medium,Yearly,Unfurnished,For Rent,2024-04-04,17,Rawdhat Abu Dhabi,Abu Dhabi,24.4200646,54.4628768
+"The Bridges, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",55000,1,1,Apartment,657,83.71385083713851,Low,Yearly,Unfurnished,For Rent,2024-04-04,17,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Shakhbout City, Abu Dhabi",38000,1,1,Apartment,1050,36.19047619047619,Low,Yearly,Unfurnished,For Rent,2024-04-06,15,Shakhbout City,Abu Dhabi,24.3594999,54.63233435459003
+"Burj Al Shams, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",70000,1,2,Apartment,900,77.77777777777777,Medium,Yearly,Unfurnished,For Rent,2024-03-21,31,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Shakhbout City, Abu Dhabi",110000,3,5,Villa,3900,28.205128205128204,Medium,Yearly,Unfurnished,For Rent,2024-04-03,18,Shakhbout City,Abu Dhabi,24.3594999,54.63233435459003
+"Tourist Club Area (TCA), Abu Dhabi",75000,3,4,Apartment,1810,41.43646408839779,Medium,Yearly,Unfurnished,For Rent,2024-04-04,17,Tourist Club Area (TCA),Abu Dhabi,24.495946,54.381815
+"Al Ghadeer, Abu Dhabi",70000,2,2,Townhouse,1299,53.88760585065435,Medium,Yearly,Unfurnished,For Rent,2024-04-02,19,Al Ghadeer,Abu Dhabi,24.84326945,55.02758961604496
+"Danet Abu Dhabi, Abu Dhabi",95000,2,3,Apartment,1700,55.88235294117647,Medium,Yearly,Unfurnished,For Rent,2024-04-05,16,Danet Abu Dhabi,Abu Dhabi,24.42934995,54.43619387355408
+"Baniyas, Abu Dhabi",210000,6,8,Villa,6405,32.78688524590164,High,Yearly,Unfurnished,For Rent,2024-04-03,18,Baniyas,Abu Dhabi,24.488919,54.3625614
+"Rawdhat Abu Dhabi, Abu Dhabi",50000,1,1,Apartment,850,58.8235294117647,Low,Yearly,Unfurnished,For Rent,2024-04-04,17,Rawdhat Abu Dhabi,Abu Dhabi,24.4200646,54.4628768
+"Al Noor Tower, Al Reem Island, Abu Dhabi",95000,2,4,Apartment,1630,58.282208588957054,Medium,Yearly,Unfurnished,For Rent,2024-04-05,16,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Mohammed Bin Zayed City, Abu Dhabi",24000,0,1,Apartment,689,34.83309143686502,Low,Yearly,Unfurnished,For Rent,2024-04-04,17,Mohammed Bin Zayed City,Abu Dhabi,24.3339589,54.5535564
+"Al Seef, Al Raha Beach, Abu Dhabi",209999,4,6,Apartment,3000,69.99966666666667,High,Yearly,Unfurnished,For Rent,2024-04-03,18,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Al Muroor, Abu Dhabi",200000,6,7,Villa,8499,23.53218025650077,High,Yearly,Unfurnished,For Rent,2024-04-04,17,Al Muroor,Abu Dhabi,24.4725056,54.376269
+"Hamdan Street, Abu Dhabi",50000,1,1,Apartment,850,58.8235294117647,Low,Yearly,Unfurnished,For Rent,2024-04-03,18,Hamdan Street,Abu Dhabi,24.2479318,55.717251
+"RDK Residential Complex, Rawdhat Abu Dhabi, Abu Dhabi",78000,2,4,Apartment,1600,48.75,Medium,Yearly,Unfurnished,For Rent,2024-04-04,17,Rawdhat Abu Dhabi,Abu Dhabi,24.4200646,54.4628768
+"Oceanscape, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",119998,2,3,Apartment,1510,79.46887417218544,Medium,Yearly,Furnished,For Rent,2024-04-03,18,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Al Bateen, Abu Dhabi",140000,5,7,Villa,5700,24.56140350877193,Medium,Yearly,Unfurnished,For Rent,2024-04-02,19,Al Bateen,Abu Dhabi,24.2048941,55.6196612
+"Zone 26, Mohammed Bin Zayed City, Abu Dhabi",150000,4,5,Villa,4250,35.294117647058826,High,Yearly,Unfurnished,For Rent,2024-04-03,18,Mohammed Bin Zayed City,Abu Dhabi,24.3339589,54.5535564
+"Shakhbout City, Abu Dhabi",135000,5,5,Villa,4200,32.142857142857146,Medium,Yearly,Unfurnished,For Rent,2024-04-04,17,Shakhbout City,Abu Dhabi,24.3594999,54.63233435459003
+"Al Mushrif, Abu Dhabi",370000,7,9,Villa,6310,58.63708399366086,High,Yearly,Unfurnished,For Rent,2024-04-04,17,Al Mushrif,Abu Dhabi,24.44108515,54.38421822124704
+"RDK Residential Complex, Rawdhat Abu Dhabi, Abu Dhabi",57000,1,2,Apartment,950,60.0,Low,Yearly,Unfurnished,For Rent,2024-04-04,17,Rawdhat Abu Dhabi,Abu Dhabi,24.4200646,54.4628768
+"Airport Street, Abu Dhabi",72000,3,4,Apartment,1850,38.91891891891892,Medium,Yearly,Unfurnished,For Rent,2024-04-04,17,Airport Street,Abu Dhabi,24.2577139,55.6334536
+"Raha Views, Al Raha Beach, Abu Dhabi",160000,3,4,Apartment,2486,64.36041834271923,High,Yearly,Unfurnished,For Rent,2024-04-03,18,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Al Jubail Island, Abu Dhabi",299000,3,4,Townhouse,2454,121.84189079054605,High,Yearly,Unfurnished,For Rent,2024-04-03,18,Al Jubail Island,Abu Dhabi,24.53170985,54.486156497090434
+"Al Rayyana, Khalifa City, Abu Dhabi",59000,1,2,Apartment,1000,59.0,Low,Yearly,Unfurnished,For Rent,2024-04-02,19,Khalifa City,Abu Dhabi,24.4201314,54.57495352587594
+"Khalifa City, Abu Dhabi",160000,6,7,Villa,2750,58.18181818181818,High,Yearly,Unfurnished,For Rent,2024-04-03,18,Khalifa City,Abu Dhabi,24.4201314,54.57495352587594
+"Ansam 1, Ansam, Yas Island, Abu Dhabi",190000,3,4,Apartment,2178,87.23599632690542,High,Yearly,Unfurnished,For Rent,2024-04-02,19,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Baynuna Tower 2, Al Hosn, Abu Dhabi",50000,1,1,Apartment,750,66.66666666666667,Low,Yearly,Unfurnished,For Rent,2024-04-04,17,Al Hosn,Abu Dhabi,24.47311215,54.36330129768281
+"Park View, Saadiyat Island, Abu Dhabi",85000,1,2,Apartment,853,99.64830011723328,Medium,Yearly,Furnished,For Rent,2024-04-03,18,Saadiyat Island,Abu Dhabi,24.54597235,54.44368803118431
+"Raha Views, Al Raha Beach, Abu Dhabi",99000,2,4,Apartment,1356,73.00884955752213,Medium,Yearly,Unfurnished,For Rent,2024-04-03,18,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Al Shaheen Tower, Al Khalidiyah, Abu Dhabi",135000,3,4,Apartment,3250,41.53846153846154,Medium,Yearly,Furnished,For Rent,2023-10-03,201,Al Khalidiyah,Abu Dhabi,24.46934445,54.34880593499775
+"Shining Towers, Al Khalidiyah, Abu Dhabi",85000,2,3,Apartment,1300,65.38461538461539,Medium,Yearly,Unfurnished,For Rent,2024-04-04,17,Al Khalidiyah,Abu Dhabi,24.46934445,54.34880593499775
+"Tourist Club Area (TCA), Abu Dhabi",75000,3,4,Apartment,1240,60.483870967741936,Medium,Yearly,Unfurnished,For Rent,2024-04-03,18,Tourist Club Area (TCA),Abu Dhabi,24.495946,54.381815
+"Silver Tower, Corniche Road, Abu Dhabi",127500,3,5,Apartment,2380,53.57142857142857,Medium,Yearly,Unfurnished,For Rent,2024-04-03,18,Corniche Road,Abu Dhabi,24.4767804,54.3205997
+"Sheikh Khalifa Bin Zayed Street, Abu Dhabi",82000,3,4,Apartment,1800,45.55555555555556,Medium,Yearly,Unfurnished,For Rent,2024-04-02,19,Sheikh Khalifa Bin Zayed Street,Abu Dhabi,24.514535,54.3895051
+"Al Raha Beach, Abu Dhabi",105000,2,3,Apartment,1302,80.64516129032258,Medium,Yearly,Unfurnished,For Rent,2023-10-04,200,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Hamdan Street, Abu Dhabi",52000,1,1,Apartment,950,54.73684210526316,Low,Yearly,Unfurnished,For Rent,2024-04-03,18,Hamdan Street,Abu Dhabi,24.2479318,55.717251
+"Al Khalidiyah, Abu Dhabi",60000,2,3,Apartment,1250,48.0,Low,Yearly,Unfurnished,For Rent,2024-04-03,18,Al Khalidiyah,Abu Dhabi,24.46934445,54.34880593499775
+"Tourist Club Area (TCA), Abu Dhabi",68000,3,2,Apartment,1450,46.89655172413793,Medium,Yearly,Unfurnished,For Rent,2024-04-03,18,Tourist Club Area (TCA),Abu Dhabi,24.495946,54.381815
+"Airport Street, Abu Dhabi",46000,1,2,Apartment,949,48.47207586933615,Low,Yearly,Unfurnished,For Rent,2024-04-03,18,Airport Street,Abu Dhabi,24.2577139,55.6334536
+"Al Zeina Building C, Al Zeina, Al Raha Beach, Abu Dhabi",220000,3,3,Townhouse,2180,100.91743119266054,High,Yearly,Unfurnished,For Rent,2024-04-02,19,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Al Muneera, Al Raha Beach, Abu Dhabi",125999,2,4,Apartment,1500,83.99933333333334,Medium,Yearly,Unfurnished,For Rent,2024-04-03,18,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Al Bahia, Abu Dhabi",150000,4,5,Villa,7656,19.59247648902821,High,Yearly,Unfurnished,For Rent,2024-04-01,20,Al Bahia,Abu Dhabi,24.5140484,54.66308214538901
+"Q Residence, Al Raha Beach, Abu Dhabi",75000,1,2,Apartment,1009,74.33102081268582,Medium,Yearly,Unfurnished,For Rent,2023-10-04,200,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Mayan 3, Mayan, Yas Island, Abu Dhabi",109999,1,2,Apartment,944,116.52436440677968,Medium,Yearly,Unfurnished,For Rent,2024-04-01,20,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Al Muneera, Al Raha Beach, Abu Dhabi",105000,2,4,Apartment,1700,61.76470588235294,Medium,Yearly,Unfurnished,For Rent,2024-04-02,19,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Al Khalidiyah, Abu Dhabi",55000,1,2,Apartment,900,61.11111111111112,Low,Yearly,Unfurnished,For Rent,2024-04-03,18,Al Khalidiyah,Abu Dhabi,24.46934445,54.34880593499775
+"Hamdan Street, Abu Dhabi",75000,2,2,Apartment,1249,60.0480384307446,Medium,Yearly,Unfurnished,For Rent,2024-04-02,19,Hamdan Street,Abu Dhabi,24.2479318,55.717251
+"Corniche Road, Abu Dhabi",150000,3,5,Apartment,2200,68.18181818181819,High,Yearly,Unfurnished,For Rent,2024-04-01,20,Corniche Road,Abu Dhabi,24.4767804,54.3205997
+"Nation Towers, Corniche Area, Abu Dhabi",110000,2,3,Apartment,1300,84.61538461538461,Medium,Yearly,Unfurnished,For Rent,2024-04-03,18,Corniche Area,Abu Dhabi,24.484107,54.35067
+"Mohammed Bin Zayed City, Abu Dhabi",160000,5,7,Villa,6500,24.615384615384617,High,Yearly,Unfurnished,For Rent,2022-09-19,580,Mohammed Bin Zayed City,Abu Dhabi,24.3339589,54.5535564
+"Electra Street, Abu Dhabi",65000,2,2,Apartment,1210,53.71900826446281,Low,Yearly,Unfurnished,For Rent,2024-04-03,18,Electra Street,Abu Dhabi,24.4650344,54.337592
+"Mohammed Bin Zayed City, Abu Dhabi",65000,2,2,Apartment,1250,52.0,Low,Yearly,Unfurnished,For Rent,2024-04-04,17,Mohammed Bin Zayed City,Abu Dhabi,24.3339589,54.5535564
+"Al Falah Street, Abu Dhabi",70000,2,2,Apartment,1249,56.04483586869495,Medium,Yearly,Unfurnished,For Rent,2024-04-02,19,Al Falah Street,Abu Dhabi,24.2801159,55.7670807
+"Shakhbout City, Abu Dhabi",38000,1,1,Apartment,1780,21.34831460674157,Low,Yearly,Unfurnished,For Rent,2024-04-03,18,Shakhbout City,Abu Dhabi,24.3594999,54.63233435459003
+"Khalifa City, Abu Dhabi",150000,4,6,Villa,3200,46.875,High,Yearly,Unfurnished,For Rent,2024-04-03,18,Khalifa City,Abu Dhabi,24.4201314,54.57495352587594
+"Airport Street, Abu Dhabi",70000,3,3,Apartment,1550,45.16129032258065,Medium,Yearly,Unfurnished,For Rent,2024-04-01,20,Airport Street,Abu Dhabi,24.2577139,55.6334536
+"Luluat Al Raha, Al Raha Beach, Abu Dhabi",80000,1,2,Apartment,909,88.008800880088,Medium,Yearly,Unfurnished,For Rent,2023-10-04,200,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Al Wahda Residential Tower, Al Wahdah, Abu Dhabi",110000,4,4,Apartment,1800,61.11111111111112,Medium,Yearly,Unfurnished,For Rent,2024-04-02,19,Al Wahdah,Abu Dhabi,24.4651138,54.3790331
+"Tourist Club Area (TCA), Abu Dhabi",55000,2,2,Apartment,1240,44.354838709677416,Low,Yearly,Unfurnished,For Rent,2024-04-05,16,Tourist Club Area (TCA),Abu Dhabi,24.495946,54.381815
+"Al Jubail Island, Abu Dhabi",299999,3,4,Townhouse,2462,121.85174654752234,High,Yearly,Unfurnished,For Rent,2024-04-03,18,Al Jubail Island,Abu Dhabi,24.53170985,54.486156497090434
+"Shakhbout City, Abu Dhabi",110000,3,3,Villa,3900,28.205128205128204,Medium,Yearly,Unfurnished,For Rent,2024-04-02,19,Shakhbout City,Abu Dhabi,24.3594999,54.63233435459003
+"Etihad Towers, Corniche Road, Abu Dhabi",138000,1,2,Apartment,850,162.35294117647058,Medium,Yearly,Furnished,For Rent,2024-03-31,21,Corniche Road,Abu Dhabi,24.4767804,54.3205997
+"Electra Street, Abu Dhabi",75000,2,3,Apartment,1350,55.55555555555556,Medium,Yearly,Unfurnished,For Rent,2024-04-01,20,Electra Street,Abu Dhabi,24.4650344,54.337592
+"Al Manaseer, Abu Dhabi",95000,3,4,Penthouse,1649,57.61067313523348,Medium,Yearly,Unfurnished,For Rent,2024-04-02,19,Al Manaseer,Abu Dhabi,,
+"Al Zeina, Al Raha Beach, Abu Dhabi",83000,2,3,Apartment,1380,60.14492753623188,Medium,Yearly,Unfurnished,For Rent,2024-04-02,19,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Airport Street, Abu Dhabi",55000,2,3,Apartment,1250,44.0,Low,Yearly,Unfurnished,For Rent,2024-04-01,20,Airport Street,Abu Dhabi,24.2577139,55.6334536
+"Al Maha Tower, Marina Square, Al Reem Island, Abu Dhabi",55900,0,1,Apartment,538,103.90334572490708,Low,Yearly,Furnished,For Rent,2024-03-30,22,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Madinat Zayed, Abu Dhabi",40000,1,1,Apartment,800,50.0,Low,Yearly,Unfurnished,For Rent,2024-04-02,19,Madinat Zayed,Abu Dhabi,23.6520354,53.704661701793626
+"Mohammed Bin Zayed City, Abu Dhabi",150000,5,7,Villa,4500,33.333333333333336,High,Yearly,Unfurnished,For Rent,2024-03-31,21,Mohammed Bin Zayed City,Abu Dhabi,24.3339589,54.5535564
+"Al Sana 2, Al Sana, Al Muneera, Al Raha Beach, Abu Dhabi",73000,1,2,Apartment,871,83.81171067738232,Medium,Yearly,Unfurnished,For Rent,2023-09-28,206,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Al Raha Lofts 1, Al Raha Lofts, Al Raha Beach, Abu Dhabi",160000,4,5,Apartment,2195,72.89293849658314,High,Yearly,Furnished,For Rent,2024-04-04,17,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Hamdan Street, Abu Dhabi",115000,2,2,Apartment,1500,76.66666666666667,Medium,Yearly,Furnished,For Rent,2024-04-02,19,Hamdan Street,Abu Dhabi,24.2479318,55.717251
+"Noya, Yas Island, Abu Dhabi",170000,3,4,Townhouse,1778,95.61304836895388,High,Yearly,Unfurnished,For Rent,2024-04-01,20,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Hamdan Street, Abu Dhabi",68000,3,3,Apartment,1549,43.89928986442867,Medium,Yearly,Unfurnished,For Rent,2024-03-30,22,Hamdan Street,Abu Dhabi,24.2479318,55.717251
+"Sheikh Khalifa Bin Zayed Street, Abu Dhabi",50000,2,2,Apartment,1250,40.0,Low,Yearly,Unfurnished,For Rent,2024-03-30,22,Sheikh Khalifa Bin Zayed Street,Abu Dhabi,24.514535,54.3895051
+"Mohammed Bin Zayed City, Abu Dhabi",36000,0,1,Apartment,400,90.0,Low,Yearly,Unfurnished,For Rent,2024-03-30,22,Mohammed Bin Zayed City,Abu Dhabi,24.3339589,54.5535564
+"Baniyas East, Baniyas, Abu Dhabi",75000,3,3,Apartment,1500,50.0,Medium,Yearly,Unfurnished,For Rent,2024-04-02,19,Baniyas,Abu Dhabi,24.488919,54.3625614
+"Mohammed Bin Zayed City, Abu Dhabi",200000,5,6,Villa,8000,25.0,High,Yearly,Unfurnished,For Rent,2024-03-29,23,Mohammed Bin Zayed City,Abu Dhabi,24.3339589,54.5535564
+"Muroor Road, Al Muroor, Abu Dhabi",240000,5,7,Villa,8200,29.26829268292683,High,Yearly,Unfurnished,For Rent,2024-03-30,22,Al Muroor,Abu Dhabi,24.4725056,54.376269
+"Khalifa City, Abu Dhabi",32000,0,1,Apartment,550,58.18181818181818,Low,Yearly,Furnished,For Rent,2024-01-23,89,Khalifa City,Abu Dhabi,24.4201314,54.57495352587594
+"Meera Shams Tower 1, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",120000,3,3,Apartment,1602,74.90636704119851,Medium,Yearly,Unfurnished,For Rent,2024-04-03,18,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Water's Edge, Yas Island, Abu Dhabi",60000,1,1,Apartment,678,88.49557522123894,Low,Yearly,Unfurnished,For Rent,2024-03-27,25,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Khalidiyah Street, Al Khalidiyah, Abu Dhabi",48000,2,2,Apartment,1300,36.92307692307692,Low,Yearly,Unfurnished,For Rent,2024-03-28,24,Al Khalidiyah,Abu Dhabi,24.46934445,54.34880593499775
+"Corniche Area, Abu Dhabi",70000,3,4,Apartment,1790,39.10614525139665,Medium,Yearly,Unfurnished,For Rent,2024-04-01,20,Corniche Area,Abu Dhabi,24.484107,54.35067
+"Water's Edge, Yas Island, Abu Dhabi",50000,0,1,Apartment,490,102.04081632653062,Low,Yearly,Unfurnished,For Rent,2024-04-03,18,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Al Reem Island, Abu Dhabi",77999,2,3,Apartment,1250,62.3992,Medium,Yearly,Unfurnished,For Rent,2024-03-28,24,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Corniche Area, Abu Dhabi",85000,2,3,Apartment,1300,65.38461538461539,Medium,Yearly,Unfurnished,For Rent,2024-03-15,37,Corniche Area,Abu Dhabi,24.484107,54.35067
+"Rabdan, Abu Dhabi",190000,7,8,Villa,7000,27.142857142857142,High,Yearly,Unfurnished,For Rent,2024-03-29,23,Rabdan,Abu Dhabi,24.4054839,54.505773076622674
+"Khalifa City, Abu Dhabi",54000,0,1,Apartment,431,125.29002320185614,Low,Yearly,Furnished,For Rent,2024-03-30,22,Khalifa City,Abu Dhabi,24.4201314,54.57495352587594
+"SH21, Al Shamkha, Abu Dhabi",110000,4,6,Villa,5200,21.15384615384616,Medium,Yearly,Unfurnished,For Rent,2024-03-28,24,Al Shamkha,Abu Dhabi,24.3866584,54.7074507
+"Khalifa City, Abu Dhabi",54999,1,1,Apartment,750,73.332,Low,Yearly,Unfurnished,For Rent,2024-03-30,22,Khalifa City,Abu Dhabi,24.4201314,54.57495352587594
+"Muroor Road, Al Muroor, Abu Dhabi",110000,3,4,Apartment,1910,57.59162303664922,Medium,Yearly,Unfurnished,For Rent,2024-03-29,23,Al Muroor,Abu Dhabi,24.4725056,54.376269
+"Al Rahba, Abu Dhabi",100000,3,3,Apartment,3453,28.960324355632785,Medium,Yearly,Unfurnished,For Rent,2024-03-29,23,Al Rahba,Abu Dhabi,24.6030114,54.6947478
+"Shabiya 11, Mussafah Community, Mohammed Bin Zayed City, Abu Dhabi",50000,2,2,Apartment,1700,29.41176470588235,Low,Yearly,Unfurnished,For Rent,2024-04-02,19,Mohammed Bin Zayed City,Abu Dhabi,24.3339589,54.5535564
+"Electra Street, Abu Dhabi",55000,3,3,Apartment,1750,31.428571428571427,Low,Yearly,Unfurnished,For Rent,2023-11-03,170,Electra Street,Abu Dhabi,24.4650344,54.337592
+"Mohammed Bin Zayed City, Abu Dhabi",55000,2,2,Apartment,1700,32.35294117647059,Low,Yearly,Unfurnished,For Rent,2024-03-29,23,Mohammed Bin Zayed City,Abu Dhabi,24.3339589,54.5535564
+"Shakhbout City, Abu Dhabi",28000,0,1,Apartment,899,31.14571746384872,Low,Yearly,Unfurnished,For Rent,2024-03-30,22,Shakhbout City,Abu Dhabi,24.3594999,54.63233435459003
+"Navy Gate, Abu Dhabi",45000,1,2,Apartment,1080,41.66666666666666,Low,Yearly,Unfurnished,For Rent,2024-03-28,24,Navy Gate,Abu Dhabi,,
+"Marina Bay By DAMAC, Najmat Abu Dhabi, Al Reem Island, Abu Dhabi",58000,1,2,Apartment,850,68.23529411764706,Low,Yearly,Unfurnished,For Rent,2024-03-29,23,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Water's Edge, Yas Island, Abu Dhabi",65000,1,1,Apartment,689,94.33962264150944,Low,Yearly,Unfurnished,For Rent,2024-03-27,25,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Al Falah Street, Abu Dhabi",200000,5,6,Villa,7500,26.666666666666668,High,Yearly,Unfurnished,For Rent,2024-03-28,24,Al Falah Street,Abu Dhabi,24.2801159,55.7670807
+"Electra Street, Abu Dhabi",90000,2,3,Apartment,1500,60.0,Medium,Yearly,Unfurnished,For Rent,2024-03-28,24,Electra Street,Abu Dhabi,24.4650344,54.337592
+"Al Rayyana, Khalifa City, Abu Dhabi",118000,3,5,Apartment,2200,53.63636363636363,Medium,Yearly,Unfurnished,For Rent,2024-04-02,19,Khalifa City,Abu Dhabi,24.4201314,54.57495352587594
+"Water's Edge, Yas Island, Abu Dhabi",57000,1,1,Apartment,689,82.72859216255442,Low,Yearly,Unfurnished,For Rent,2024-03-27,25,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Al Khalidiyah, Abu Dhabi",51000,2,2,Apartment,1700,30.0,Low,Yearly,Unfurnished,For Rent,2024-03-29,23,Al Khalidiyah,Abu Dhabi,24.46934445,54.34880593499775
+"Marina Heights II, Marina Heights, Marina Square, Al Reem Island, Abu Dhabi",92000,2,3,Apartment,1356,67.84660766961652,Medium,Yearly,Unfurnished,For Rent,2024-04-03,18,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Al Hills Villas, Hills Abu Dhabi, Al Maqtaa, Abu Dhabi",300000,5,6,Villa,4500,66.66666666666667,High,Yearly,Unfurnished,For Rent,2024-03-29,23,Al Maqtaa,Abu Dhabi,24.4345654,54.4543861
+"Noya, Yas Island, Abu Dhabi",180000,3,4,Townhouse,1816,99.11894273127751,High,Yearly,Unfurnished,For Rent,2024-03-27,25,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Madinat Al Riyadh, Abu Dhabi",170000,5,9,Villa,5000,34.0,High,Yearly,Unfurnished,For Rent,2024-04-04,17,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"Mayan, Yas Island, Abu Dhabi",375000,4,5,Apartment,3100,120.96774193548389,High,Yearly,Unfurnished,For Rent,2024-04-04,17,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Noya, Yas Island, Abu Dhabi",200000,3,4,Townhouse,1752,114.15525114155253,High,Yearly,Unfurnished,For Rent,2024-03-27,25,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Madinat Al Riyadh, Abu Dhabi",120000,5,5,Apartment,3000,40.0,Medium,Yearly,Unfurnished,For Rent,2024-03-27,25,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"Sea Side Tower, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",105000,3,4,Apartment,1473,71.28309572301426,Medium,Yearly,Unfurnished,For Rent,2024-03-27,25,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Madinat Al Riyadh, Abu Dhabi",30000,1,2,Apartment,1150,26.08695652173913,Low,Yearly,Unfurnished,For Rent,2024-03-27,25,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"Al Reem Island, Abu Dhabi",58888,0,1,Apartment,420,140.2095238095238,Low,Yearly,Furnished,For Rent,2024-01-11,101,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Madinat Al Riyadh, Abu Dhabi",35000,1,2,Apartment,700,50.0,Low,Yearly,Unfurnished,For Rent,2024-04-04,17,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"Noya, Yas Island, Abu Dhabi",150000,2,3,Townhouse,1335,112.35955056179776,High,Yearly,Unfurnished,For Rent,2024-03-27,25,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Etihad Towers, Corniche Road, Abu Dhabi",243000,3,4,Apartment,1636,148.53300733496332,High,Yearly,Furnished,For Rent,2024-02-27,54,Corniche Road,Abu Dhabi,24.4767804,54.3205997
+"Al Reem Bay Towers, Najmat Abu Dhabi, Al Reem Island, Abu Dhabi",135000,3,4,Apartment,2400,56.25,Medium,Yearly,Unfurnished,For Rent,2023-12-12,131,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Al Jowhara Tower, Corniche Area, Abu Dhabi",100000,1,2,Apartment,900,111.11111111111111,Medium,Yearly,Furnished,For Rent,2024-03-26,26,Corniche Area,Abu Dhabi,24.484107,54.35067
+"AD One Tower, Capital Centre, Abu Dhabi",160000,3,4,Apartment,2103,76.08178792201616,High,Yearly,Unfurnished,For Rent,2024-03-29,23,Capital Centre,Abu Dhabi,24.4191359,54.4400422
+"Al Bahia, Abu Dhabi",250000,6,6,Villa,10000,25.0,High,Yearly,Unfurnished,For Rent,2024-03-27,25,Al Bahia,Abu Dhabi,24.5140484,54.66308214538901
+"Meera MAAM Residence, Corniche Area, Abu Dhabi",75000,0,1,Apartment,700,107.14285714285714,Medium,Yearly,Furnished,For Rent,2024-03-26,26,Corniche Area,Abu Dhabi,24.484107,54.35067
+"Water's Edge, Yas Island, Abu Dhabi",100000,1,1,Apartment,700,142.85714285714286,Medium,Yearly,Furnished,For Rent,2024-04-02,19,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Ansam 4, Ansam, Yas Island, Abu Dhabi",70000,0,1,Apartment,508,137.79527559055117,Medium,Yearly,Furnished,For Rent,2024-03-25,27,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Al Mushrif, Abu Dhabi",37900,0,1,Apartment,500,75.8,Low,Yearly,Unfurnished,For Rent,2024-03-28,24,Al Mushrif,Abu Dhabi,24.44108515,54.38421822124704
+"Khalifa City, Abu Dhabi",60000,2,2,Apartment,2250,26.666666666666668,Low,Yearly,Unfurnished,For Rent,2024-03-27,25,Khalifa City,Abu Dhabi,24.4201314,54.57495352587594
+"Burj Al Shams, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",71995,2,3,Apartment,1310,54.958015267175576,Medium,Yearly,Unfurnished,For Rent,2024-03-22,30,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Khalifa City, Abu Dhabi",32000,0,1,Apartment,700,45.71428571428572,Low,Yearly,Unfurnished,For Rent,2023-09-24,210,Khalifa City,Abu Dhabi,24.4201314,54.57495352587594
+"Reflection, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",45000,0,1,Apartment,451,99.77827050997784,Low,Yearly,Unfurnished,For Rent,2024-03-24,28,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Mina Road, Tourist Club Area (TCA), Abu Dhabi",47000,1,1,Apartment,950,49.47368421052632,Low,Yearly,Unfurnished,For Rent,2024-03-26,26,Tourist Club Area (TCA),Abu Dhabi,24.495946,54.381815
+"Lafzaeyya Tower, Sheikh Khalifa Bin Zayed Street, Abu Dhabi",80000,3,3,Apartment,1378,58.05515239477504,Medium,Yearly,Unfurnished,For Rent,2023-09-20,214,Sheikh Khalifa Bin Zayed Street,Abu Dhabi,24.514535,54.3895051
+"Al Sana 2, Al Sana, Al Muneera, Al Raha Beach, Abu Dhabi",73000,1,2,Apartment,818,89.24205378973105,Medium,Yearly,Unfurnished,For Rent,2024-03-25,27,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Al Karamah, Abu Dhabi",130000,3,4,Villa,3230,40.247678018575854,Medium,Yearly,Unfurnished,For Rent,2024-03-30,22,Al Karamah,Abu Dhabi,24.4653001,54.371509
+"Khalidiyah Street, Al Khalidiyah, Abu Dhabi",100000,4,5,Apartment,2325,43.01075268817204,Medium,Yearly,Unfurnished,For Rent,2024-03-20,32,Al Khalidiyah,Abu Dhabi,24.46934445,54.34880593499775
+"Shakhbout City, Abu Dhabi",48000,2,2,Apartment,1200,40.0,Low,Yearly,Unfurnished,For Rent,2024-03-25,27,Shakhbout City,Abu Dhabi,24.3594999,54.63233435459003
+"Al Muroor, Abu Dhabi",61900,1,1,Apartment,940,65.85106382978724,Low,Yearly,Unfurnished,For Rent,2024-03-23,29,Al Muroor,Abu Dhabi,24.4725056,54.376269
+"RDK Towers, Najmat Abu Dhabi, Al Reem Island, Abu Dhabi",74995,1,2,Apartment,815,92.01840490797548,Medium,Yearly,Unfurnished,For Rent,2024-03-23,29,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Al Bahia, Abu Dhabi",150000,6,7,Villa,7636,19.64379256155055,High,Yearly,Unfurnished,For Rent,2024-03-22,30,Al Bahia,Abu Dhabi,24.5140484,54.66308214538901
+"Al Shamkha, Abu Dhabi",80000,3,3,Villa,3000,26.666666666666668,Medium,Yearly,Unfurnished,For Rent,2024-03-25,27,Al Shamkha,Abu Dhabi,24.3866584,54.7074507
+"Abu Dhabi National Exhibition Centre ADNEC, Capital Centre, Abu Dhabi",61900,1,1,Apartment,920,67.28260869565217,Low,Yearly,Unfurnished,For Rent,2024-03-23,29,Capital Centre,Abu Dhabi,24.4191359,54.4400422
+"Water's Edge, Yas Island, Abu Dhabi",120000,3,4,Apartment,1453,82.58774948382657,Medium,Yearly,Unfurnished,For Rent,2024-03-22,30,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Tourist Club Area (TCA), Abu Dhabi",45000,2,1,Apartment,1250,36.0,Low,Yearly,Unfurnished,For Rent,2024-01-07,105,Tourist Club Area (TCA),Abu Dhabi,24.495946,54.381815
+"Park View, Saadiyat Island, Abu Dhabi",135000,2,3,Apartment,1301,103.7663335895465,Medium,Yearly,Unfurnished,For Rent,2024-03-22,30,Saadiyat Island,Abu Dhabi,24.54597235,54.44368803118431
+"Al Raha Beach, Abu Dhabi",89000,2,4,Apartment,1550,57.41935483870968,Medium,Yearly,Unfurnished,For Rent,2024-03-28,24,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Al Dana, Al Raha Beach, Abu Dhabi",115000,2,3,Apartment,1915,60.052219321148826,Medium,Yearly,Unfurnished,For Rent,2024-03-22,30,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Al Dana, Al Raha Beach, Abu Dhabi",220000,3,5,Apartment,4316,50.97312326227989,High,Yearly,Unfurnished,For Rent,2024-03-22,30,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Khalifa City, Abu Dhabi",350000,9,10,Villa,19766,17.707173935039968,High,Yearly,Unfurnished,For Rent,2023-09-14,220,Khalifa City,Abu Dhabi,24.4201314,54.57495352587594
+"Mohammed Villas 24, Mohammed Bin Zayed City, Abu Dhabi",70000,2,2,Apartment,1600,43.75,Medium,Yearly,Unfurnished,For Rent,2024-03-23,29,Mohammed Bin Zayed City,Abu Dhabi,24.3339589,54.5535564
+"Noya, Yas Island, Abu Dhabi",150000,2,4,Townhouse,1816,82.59911894273128,High,Yearly,Unfurnished,For Rent,2024-03-21,31,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Al Falah Street, Abu Dhabi",70000,2,2,Apartment,1250,56.0,Medium,Yearly,Unfurnished,For Rent,2024-03-22,30,Al Falah Street,Abu Dhabi,24.2801159,55.7670807
+"Al Mushrif, Abu Dhabi",37900,0,1,Apartment,470,80.63829787234043,Low,Yearly,Unfurnished,For Rent,2024-03-23,29,Al Mushrif,Abu Dhabi,24.44108515,54.38421822124704
+"Al Dana, Al Raha Beach, Abu Dhabi",72000,1,2,Apartment,1108,64.98194945848375,Medium,Yearly,Unfurnished,For Rent,2024-03-22,30,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Burj Mohammed Bin Rashid - WTC, Al Markaziya, Abu Dhabi",286000,4,4,Apartment,2100,136.1904761904762,High,Yearly,Unfurnished,For Rent,2024-03-20,32,Al Markaziya,Abu Dhabi,24.4910482,54.3602411
+"Shabiya 12, Mussafah Community, Mohammed Bin Zayed City, Abu Dhabi",40000,1,1,Apartment,1200,33.333333333333336,Low,Yearly,Unfurnished,For Rent,2024-03-24,28,Mohammed Bin Zayed City,Abu Dhabi,24.3339589,54.5535564
+"Redwoods, Yas Acres, Yas Island, Abu Dhabi",220000,3,4,Townhouse,3379,65.10802012429713,High,Yearly,Unfurnished,For Rent,2024-03-20,32,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Meera Shams Tower 2, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",80000,2,3,Apartment,1024,78.125,Medium,Yearly,Unfurnished,For Rent,2024-03-22,30,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Park View, Saadiyat Island, Abu Dhabi",75000,1,2,Apartment,933,80.38585209003216,Medium,Yearly,Unfurnished,For Rent,2024-03-22,30,Saadiyat Island,Abu Dhabi,24.54597235,54.44368803118431
+"Khalifa City, Abu Dhabi",150000,6,7,Villa,6200,24.193548387096776,High,Yearly,Unfurnished,For Rent,2024-03-21,31,Khalifa City,Abu Dhabi,24.4201314,54.57495352587594
+"Al Maqta Village, Al Matar, Abu Dhabi",57000,2,3,Apartment,1250,45.6,Low,Yearly,Unfurnished,For Rent,2024-03-22,30,Al Matar,Abu Dhabi,24.4352701,54.4406788
+"Shakhbout City, Abu Dhabi",150000,5,6,Villa,5200,28.846153846153847,High,Yearly,Unfurnished,For Rent,2024-03-22,30,Shakhbout City,Abu Dhabi,24.3594999,54.63233435459003
+"Burj Al Shams, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",120000,2,3,Apartment,1650,72.72727272727273,Medium,Yearly,Unfurnished,For Rent,2024-03-18,34,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Marina Heights II, Marina Heights, Marina Square, Al Reem Island, Abu Dhabi",60000,1,2,Apartment,915,65.57377049180327,Low,Yearly,Unfurnished,For Rent,2024-03-27,25,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Burj Al Shams, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",105000,3,4,Apartment,2100,50.0,Medium,Yearly,Unfurnished,For Rent,2024-03-17,35,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Jasmine Tower, Airport Street, Abu Dhabi",75000,2,3,Apartment,1450,51.72413793103448,Medium,Yearly,Unfurnished,For Rent,2024-03-22,30,Airport Street,Abu Dhabi,24.2577139,55.6334536
+"Electra Street, Abu Dhabi",85000,2,3,Apartment,1450,58.62068965517241,Medium,Yearly,Unfurnished,For Rent,2024-03-20,32,Electra Street,Abu Dhabi,24.4650344,54.337592
+"Al Hadeel, Al Raha Beach, Abu Dhabi",190000,3,4,Apartment,1932,98.34368530020704,High,Yearly,Unfurnished,For Rent,2024-03-16,36,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Noya, Yas Island, Abu Dhabi",190000,3,5,Townhouse,2301,82.57279443720121,High,Yearly,Unfurnished,For Rent,2024-03-19,33,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Al Mushrif, Abu Dhabi",36999,0,1,Apartment,1400,26.427857142857142,Low,Yearly,Unfurnished,For Rent,2024-03-23,29,Al Mushrif,Abu Dhabi,24.44108515,54.38421822124704
+"Defence Street, Abu Dhabi",50000,2,2,Apartment,1250,40.0,Low,Yearly,Unfurnished,For Rent,2024-03-23,29,Defence Street,Abu Dhabi,24.4750779,54.3776902
+"Al Khalidiyah, Abu Dhabi",50000,2,2,Apartment,1249,40.0320256204964,Low,Yearly,Unfurnished,For Rent,2024-03-20,32,Al Khalidiyah,Abu Dhabi,24.46934445,54.34880593499775
+"Al Hadeel, Al Raha Beach, Abu Dhabi",74000,0,1,Apartment,575,128.69565217391303,Medium,Yearly,Furnished,For Rent,2024-03-26,26,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Khalifa City, Abu Dhabi",50000,1,2,Apartment,1199,41.70141784820684,Low,Yearly,Unfurnished,For Rent,2024-03-20,32,Khalifa City,Abu Dhabi,24.4201314,54.57495352587594
+"Al Raha Beach, Abu Dhabi",190000,4,5,Apartment,2445,77.70961145194273,High,Yearly,Unfurnished,For Rent,2024-03-22,30,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Mohammed Bin Zayed City, Abu Dhabi",110000,3,4,Apartment,1285,85.60311284046692,Medium,Yearly,Unfurnished,For Rent,2024-03-20,32,Mohammed Bin Zayed City,Abu Dhabi,24.3339589,54.5535564
+"Noya, Yas Island, Abu Dhabi",230000,3,4,Townhouse,3145,73.13195548489666,High,Yearly,Unfurnished,For Rent,2024-03-20,32,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"The Gate Tower 2, The Gate Tower, Shams Gate District, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",125000,3,4,Apartment,1808,69.13716814159292,Medium,Yearly,Unfurnished,For Rent,2024-03-18,34,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Al Shamkha, Abu Dhabi",70000,3,3,Apartment,2000,35.0,Medium,Yearly,Unfurnished,For Rent,2024-04-03,18,Al Shamkha,Abu Dhabi,24.3866584,54.7074507
+"The Residence Central Park, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",140000,3,5,Apartment,2002,69.93006993006993,Medium,Yearly,Unfurnished,For Rent,2024-03-20,32,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Rawdhat Abu Dhabi, Abu Dhabi",59999,1,2,Apartment,1055,56.871090047393366,Low,Yearly,Unfurnished,For Rent,2023-03-09,409,Rawdhat Abu Dhabi,Abu Dhabi,24.4200646,54.4628768
+"Etihad Towers, Corniche Road, Abu Dhabi",137999,1,1,Apartment,718,192.1991643454039,Medium,Yearly,Furnished,For Rent,2023-10-15,189,Corniche Road,Abu Dhabi,24.4767804,54.3205997
+"Muroor Road, Al Muroor, Abu Dhabi",60000,1,2,Apartment,950,63.1578947368421,Low,Yearly,Unfurnished,For Rent,2024-03-19,33,Al Muroor,Abu Dhabi,24.4725056,54.376269
+"Madinat Al Riyadh, Abu Dhabi",30999,1,1,Apartment,1910,16.229842931937174,Low,Yearly,Unfurnished,For Rent,2024-03-17,35,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"The Cedars, Yas Acres, Yas Island, Abu Dhabi",190000,2,3,Townhouse,3200,59.375,High,Yearly,Unfurnished,For Rent,2024-03-20,32,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Saadiyat Beach Residences, Saadiyat Beach, Saadiyat Island, Abu Dhabi",70000,1,2,Apartment,1040,67.3076923076923,Medium,Yearly,Unfurnished,For Rent,2024-03-14,38,Saadiyat Island,Abu Dhabi,24.54597235,54.44368803118431
+"Amwaj 2, Amwaj, Al Raha Beach, Abu Dhabi",89000,2,4,Apartment,1621,54.90438001233807,Medium,Yearly,Unfurnished,For Rent,2024-03-17,35,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Etihad Towers, Corniche Road, Abu Dhabi",115000,2,3,Apartment,1400,82.14285714285714,Medium,Yearly,Unfurnished,For Rent,2023-09-10,224,Corniche Road,Abu Dhabi,24.4767804,54.3205997
+"Mohammed Bin Zayed City, Abu Dhabi",170000,4,6,Villa,5200,32.69230769230769,High,Yearly,Unfurnished,For Rent,2024-03-17,35,Mohammed Bin Zayed City,Abu Dhabi,24.3339589,54.5535564
+"Khalifa City, Abu Dhabi",50000,1,2,Apartment,1200,41.66666666666666,Low,Yearly,Unfurnished,For Rent,2024-03-20,32,Khalifa City,Abu Dhabi,24.4201314,54.57495352587594
+"Contemporary Style, Al Reef Villas, Al Reef, Abu Dhabi",79998,2,3,Villa,1204,66.44352159468438,Medium,Yearly,Unfurnished,For Rent,2024-03-17,35,Al Reef,Abu Dhabi,24.4664366,54.65689142777212
+"Madinat Al Riyadh, Abu Dhabi",100000,3,4,Villa,3499,28.57959416976279,Medium,Yearly,Unfurnished,For Rent,2024-03-15,37,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"Al Shamkha, Abu Dhabi",37000,1,1,Apartment,1050,35.23809523809524,Low,Yearly,Unfurnished,For Rent,2024-03-18,34,Al Shamkha,Abu Dhabi,24.3866584,54.7074507
+"Al Nahyan, Abu Dhabi",65000,1,2,Apartment,1200,54.16666666666666,Low,Yearly,Unfurnished,For Rent,2023-06-16,310,Al Nahyan,Abu Dhabi,24.46446185,54.38683888474424
+"Al Shamkha, Abu Dhabi",60000,3,3,Apartment,2000,30.0,Low,Yearly,Unfurnished,For Rent,2024-04-03,18,Al Shamkha,Abu Dhabi,24.3866584,54.7074507
+"Noya, Yas Island, Abu Dhabi",200000,3,4,Townhouse,1791,111.66945840312674,High,Yearly,Unfurnished,For Rent,2024-03-26,26,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Al Khaleej Al Arabi Street, Al Bateen, Abu Dhabi",220000,5,8,Villa,5000,44.0,High,Yearly,Unfurnished,For Rent,2024-03-16,36,Al Bateen,Abu Dhabi,24.2048941,55.6196612
+"Zone 12, Mohammed Bin Zayed City, Abu Dhabi",15000,0,1,Apartment,350,42.85714285714285,Low,Yearly,Unfurnished,For Rent,2024-03-16,36,Mohammed Bin Zayed City,Abu Dhabi,24.3339589,54.5535564
+"Between Two Bridges (Bain Al Jessrain), Abu Dhabi",38000,0,1,Apartment,550,69.0909090909091,Low,Yearly,Unfurnished,For Rent,2024-03-16,36,Between Two Bridges (Bain Al Jessrain),Abu Dhabi,24.4073751,54.506637
+"Al Maqta Village, Al Matar, Abu Dhabi",125000,3,4,Villa,4000,31.25,Medium,Yearly,Unfurnished,For Rent,2024-03-31,21,Al Matar,Abu Dhabi,24.4352701,54.4406788
+"Madinat Zayed, Abu Dhabi",95000,4,4,Apartment,2500,38.0,Medium,Yearly,Unfurnished,For Rent,2023-03-21,397,Madinat Zayed,Abu Dhabi,23.6520354,53.704661701793626
+"Shakhbout City, Abu Dhabi",14000,0,1,Apartment,350,40.0,Low,Yearly,Unfurnished,For Rent,2024-04-08,13,Shakhbout City,Abu Dhabi,24.3594999,54.63233435459003
+"Al Raha Beach, Abu Dhabi",114999,2,3,Apartment,1618,71.07478368355996,Medium,Yearly,Unfurnished,For Rent,2024-03-15,37,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Mohammed Bin Zayed City, Abu Dhabi",110000,4,6,Apartment,4500,24.444444444444443,Medium,Yearly,Unfurnished,For Rent,2024-04-06,15,Mohammed Bin Zayed City,Abu Dhabi,24.3339589,54.5535564
+"Madinat Al Riyadh, Abu Dhabi",37000,1,2,Apartment,1477,25.05077860528097,Low,Yearly,Unfurnished,For Rent,2024-03-19,33,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"Najmat C10 Tower, Najmat Abu Dhabi, Al Reem Island, Abu Dhabi",86000,2,3,Apartment,1380,62.31884057971015,Medium,Yearly,Unfurnished,For Rent,2023-09-13,221,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"RDK Towers, Najmat Abu Dhabi, Al Reem Island, Abu Dhabi",80000,1,2,Apartment,843,94.89916963226572,Medium,Yearly,Unfurnished,For Rent,2024-03-18,34,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Khalifa City, Abu Dhabi",160000,2,3,Villa,2699,59.28121526491293,High,Yearly,Unfurnished,For Rent,2024-03-14,38,Khalifa City,Abu Dhabi,24.4201314,54.57495352587594
+"Capital Tower, Capital Centre, Abu Dhabi",70000,1,2,Apartment,950,73.6842105263158,Medium,Yearly,Furnished,For Rent,2024-04-04,17,Capital Centre,Abu Dhabi,24.4191359,54.4400422
+"Liwa Oasis Compound, Khalifa City, Abu Dhabi",22000,0,1,Apartment,450,48.888888888888886,Low,Yearly,Unfurnished,For Rent,2024-03-15,37,Khalifa City,Abu Dhabi,24.4201314,54.57495352587594
+"Burj Al Shams, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",75000,2,3,Apartment,1250,60.0,Medium,Yearly,Unfurnished,For Rent,2024-03-13,39,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Burj Al Shams, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",110000,3,4,Apartment,1158,94.99136442141624,Medium,Yearly,Unfurnished,For Rent,2024-03-07,45,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Marina Square, Al Reem Island, Abu Dhabi",180000,3,3,Townhouse,2181,82.53094910591471,High,Yearly,Unfurnished,For Rent,2024-03-19,33,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Saadiyat Noon, Saadiyat Island, Abu Dhabi",75000,2,3,Apartment,1433,52.337752965806,Medium,Yearly,Unfurnished,For Rent,2024-03-14,38,Saadiyat Island,Abu Dhabi,24.54597235,54.44368803118431
+"Al Raha Beach, Abu Dhabi",45000,1,2,Apartment,850,52.94117647058823,Low,Yearly,Unfurnished,For Rent,2024-03-15,37,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Burj Al Shams, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",74000,2,3,Apartment,1300,56.92307692307692,Medium,Yearly,Unfurnished,For Rent,2024-03-19,33,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Al Shamkha, Abu Dhabi",55000,3,3,Apartment,2000,27.5,Low,Yearly,Unfurnished,For Rent,2024-04-03,18,Al Shamkha,Abu Dhabi,24.3866584,54.7074507
+"Al Sail Tower, Al Dana, Al Raha Beach, Abu Dhabi",80000,1,2,Apartment,945,84.65608465608466,Medium,Yearly,Unfurnished,For Rent,2023-09-08,226,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Corniche Area, Abu Dhabi",100000,3,3,Apartment,2500,40.0,Medium,Yearly,Unfurnished,For Rent,2023-12-16,127,Corniche Area,Abu Dhabi,24.484107,54.35067
+"Madinat Al Riyadh, Abu Dhabi",70000,2,3,Villa,5000,14.0,Medium,Yearly,Unfurnished,For Rent,2024-03-16,36,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"Al Muroor, Abu Dhabi",32400,0,1,Apartment,400,81.0,Low,Yearly,Unfurnished,For Rent,2024-02-11,70,Al Muroor,Abu Dhabi,24.4725056,54.376269
+"Madinat Al Riyadh, Abu Dhabi",160000,8,11,Villa,12000,13.333333333333334,High,Yearly,Unfurnished,For Rent,2024-03-14,38,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"Al Wahdah, Abu Dhabi",27000,0,1,Apartment,670,40.298507462686565,Low,Yearly,Unfurnished,For Rent,2024-03-14,38,Al Wahdah,Abu Dhabi,24.4651138,54.3790331
+"Al Zeina Building F, Al Zeina, Al Raha Beach, Abu Dhabi",181999,4,5,Apartment,2762,65.89391745112238,High,Yearly,Unfurnished,For Rent,2024-03-07,45,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Al Khalidiyah, Abu Dhabi",27000,0,1,Apartment,380,71.05263157894737,Low,Yearly,Unfurnished,For Rent,2023-03-21,397,Al Khalidiyah,Abu Dhabi,24.46934445,54.34880593499775
+"Madinat Al Riyadh, Abu Dhabi",38000,1,1,Apartment,1050,36.19047619047619,Low,Yearly,Unfurnished,For Rent,2024-04-09,12,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"Al Nahyan, Abu Dhabi",95000,4,5,Apartment,2215,42.88939051918736,Medium,Yearly,Unfurnished,For Rent,2024-03-16,36,Al Nahyan,Abu Dhabi,24.46446185,54.38683888474424
+"The Gate Tower 2, The Gate Tower, Shams Gate District, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",48000,0,1,Apartment,610,78.68852459016394,Low,Yearly,Unfurnished,For Rent,2024-02-12,69,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Al Raha Gardens, Abu Dhabi",175000,4,7,Villa,4332,40.39704524469067,High,Yearly,Unfurnished,For Rent,2023-10-11,193,Al Raha Gardens,Abu Dhabi,24.42772055,54.55168867992076
+"AD One Tower, Capital Centre, Abu Dhabi",60000,1,1,Apartment,895,67.0391061452514,Low,Yearly,Unfurnished,For Rent,2023-10-04,200,Capital Centre,Abu Dhabi,24.4191359,54.4400422
+"MAG 5 Residence (B2 Tower), Marina Square, Al Reem Island, Abu Dhabi",115000,2,3,Apartment,1722,66.78281068524971,Medium,Yearly,Unfurnished,For Rent,2024-03-13,39,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Samra Community, Al Raha Gardens, Abu Dhabi",230000,5,6,Villa,5203,44.205266192581206,High,Yearly,Unfurnished,For Rent,2024-03-12,40,Al Raha Gardens,Abu Dhabi,24.42772055,54.55168867992076
+"Khalifa City, Abu Dhabi",200000,5,6,Villa,4545,44.004400440044,High,Yearly,Unfurnished,For Rent,2024-03-11,41,Khalifa City,Abu Dhabi,24.4201314,54.57495352587594
+"Al Raha Gardens, Abu Dhabi",175000,4,5,Villa,4250,41.1764705882353,High,Yearly,Unfurnished,For Rent,2023-09-09,225,Al Raha Gardens,Abu Dhabi,24.42772055,54.55168867992076
+"Airport Street, Abu Dhabi",90000,3,4,Apartment,1863,48.30917874396136,Medium,Yearly,Unfurnished,For Rent,2023-10-15,189,Airport Street,Abu Dhabi,24.2577139,55.6334536
+"Hydra Avenue Towers, City of Lights, Al Reem Island, Abu Dhabi",50000,0,1,Apartment,422,118.48341232227487,Low,Yearly,Unfurnished,For Rent,2024-03-13,39,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Madinat Al Riyadh, Abu Dhabi",45000,2,2,Apartment,1850,24.324324324324323,Low,Yearly,Unfurnished,For Rent,2024-03-14,38,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"Corniche Area, Abu Dhabi",80000,3,3,Apartment,2066,38.72216844143272,Medium,Yearly,Unfurnished,For Rent,2024-03-28,24,Corniche Area,Abu Dhabi,24.484107,54.35067
+"Al Nasr Street, Abu Dhabi",85000,3,3,Apartment,2000,42.5,Medium,Yearly,Unfurnished,For Rent,2023-08-04,261,Al Nasr Street,Abu Dhabi,24.5005028,54.3782872
+"Reflection, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",120000,2,2,Apartment,1080,111.11111111111111,Medium,Yearly,Furnished,For Rent,2024-03-07,45,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Etihad Towers, Corniche Road, Abu Dhabi",175000,2,3,Apartment,1323,132.27513227513228,High,Yearly,Furnished,For Rent,2024-03-15,37,Corniche Road,Abu Dhabi,24.4767804,54.3205997
+"Al Rahba, Abu Dhabi",45000,2,2,Apartment,2200,20.454545454545453,Low,Yearly,Unfurnished,For Rent,2024-03-12,40,Al Rahba,Abu Dhabi,24.6030114,54.6947478
+"Hydra Avenue Towers, City of Lights, Al Reem Island, Abu Dhabi",47000,0,1,Apartment,423,111.11111111111111,Low,Yearly,Unfurnished,For Rent,2024-03-20,32,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Al Raha Gardens, Abu Dhabi",150000,3,5,Villa,3750,40.0,High,Yearly,Unfurnished,For Rent,2024-04-01,20,Al Raha Gardens,Abu Dhabi,24.42772055,54.55168867992076
+"Arabian Style, Al Reef Villas, Al Reef, Abu Dhabi",132000,4,5,Villa,2699,48.907002593553166,Medium,Yearly,Unfurnished,For Rent,2024-03-13,39,Al Reef,Abu Dhabi,24.4664366,54.65689142777212
+"Al Muneera, Al Raha Beach, Abu Dhabi",99000,2,4,Apartment,1360,72.79411764705883,Medium,Yearly,Unfurnished,For Rent,2024-03-14,38,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Al Bahia, Abu Dhabi",140000,7,6,Villa,3000,46.66666666666666,Medium,Yearly,Unfurnished,For Rent,2024-01-25,87,Al Bahia,Abu Dhabi,24.5140484,54.66308214538901
+"Khalifa City, Abu Dhabi",27000,0,1,Apartment,840,32.142857142857146,Low,Yearly,Unfurnished,For Rent,2024-03-15,37,Khalifa City,Abu Dhabi,24.4201314,54.57495352587594
+"Rawdhat Abu Dhabi, Abu Dhabi",63000,1,2,Apartment,1020,61.76470588235294,Low,Yearly,Unfurnished,For Rent,2024-03-09,43,Rawdhat Abu Dhabi,Abu Dhabi,24.4200646,54.4628768
+"Al Bateen Airport, Al Matar, Abu Dhabi",64900,1,1,Apartment,950,68.3157894736842,Low,Yearly,Unfurnished,For Rent,2024-03-07,45,Al Matar,Abu Dhabi,24.4352701,54.4406788
+"Waterfront Residential Towers, Tourist Club Area (TCA), Abu Dhabi",170000,3,4,Apartment,2400,70.83333333333333,High,Yearly,Unfurnished,For Rent,2023-11-08,165,Tourist Club Area (TCA),Abu Dhabi,24.495946,54.381815
+"Hamdan Street, Abu Dhabi",64945,3,3,Apartment,1750,37.11142857142857,Low,Yearly,Unfurnished,For Rent,2024-02-21,60,Hamdan Street,Abu Dhabi,24.2479318,55.717251
+"Al Khalidiyah, Abu Dhabi",135000,4,4,Apartment,1840,73.3695652173913,Medium,Yearly,Unfurnished,For Rent,2024-03-10,42,Al Khalidiyah,Abu Dhabi,24.46934445,54.34880593499775
+"Faya at Bloom Gardens, Bloom Gardens, Al Matar, Abu Dhabi",240000,5,6,Villa,4373,54.88223187742968,High,Yearly,Unfurnished,For Rent,2024-03-12,40,Al Matar,Abu Dhabi,24.4352701,54.4406788
+"Waterfront Tower A, Waterfront Residential Towers, Tourist Club Area (TCA), Abu Dhabi",122500,2,4,Apartment,1650,74.24242424242425,Medium,Yearly,Unfurnished,For Rent,2024-03-11,41,Tourist Club Area (TCA),Abu Dhabi,24.495946,54.381815
+"Al Raha Beach, Abu Dhabi",78750,2,3,Apartment,995,79.14572864321607,Medium,Yearly,Unfurnished,For Rent,2024-03-24,28,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Al Muhairy Center, Al Khalidiyah, Abu Dhabi",64999,1,2,Apartment,850,76.46941176470588,Low,Yearly,Unfurnished,For Rent,2024-03-10,42,Al Khalidiyah,Abu Dhabi,24.46934445,54.34880593499775
+"Eastern Mangrove Promenade, Eastern Mangroves Complex, Al Zahraa, Abu Dhabi",105000,1,2,Apartment,1100,95.45454545454544,Medium,Yearly,Furnished,For Rent,2024-03-09,43,Al Zahraa,Abu Dhabi,24.4391653,54.435218
+"Pixel, Makers District, Al Reem Island, Abu Dhabi",115000,2,2,Apartment,1264,90.98101265822784,Medium,Yearly,Unfurnished,For Rent,2024-03-08,44,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Burj Al Shams, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",74000,2,3,Apartment,1333,55.5138784696174,Medium,Yearly,Unfurnished,For Rent,2024-03-08,44,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Al Shamkha, Abu Dhabi",75000,4,5,Apartment,3000,25.0,Medium,Yearly,Unfurnished,For Rent,2024-03-14,38,Al Shamkha,Abu Dhabi,24.3866584,54.7074507
+"Sigma Tower 1, Sigma Towers, City of Lights, Al Reem Island, Abu Dhabi",80000,2,3,Apartment,1300,61.53846153846154,Medium,Yearly,Unfurnished,For Rent,2024-03-14,38,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Shakhbout City, Abu Dhabi",230000,6,8,Villa,10200,22.54901960784314,High,Yearly,Unfurnished,For Rent,2024-03-12,40,Shakhbout City,Abu Dhabi,24.3594999,54.63233435459003
+"Mohammed Bin Zayed City, Abu Dhabi",150000,6,7,Villa,6000,25.0,High,Yearly,Unfurnished,For Rent,2024-03-07,45,Mohammed Bin Zayed City,Abu Dhabi,24.3339589,54.5535564
+"Al Muroor, Abu Dhabi",70000,3,3,Apartment,1600,43.75,Medium,Yearly,Unfurnished,For Rent,2023-09-11,223,Al Muroor,Abu Dhabi,24.4725056,54.376269
+"Al Dana, Al Raha Beach, Abu Dhabi",102000,2,4,Apartment,1750,58.285714285714285,Medium,Yearly,Unfurnished,For Rent,2024-03-09,43,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Al Shamkha, Abu Dhabi",200000,5,8,Villa,8000,25.0,High,Yearly,Unfurnished,For Rent,2024-03-04,48,Al Shamkha,Abu Dhabi,24.3866584,54.7074507
+"Khalifa City, Abu Dhabi",140000,3,4,Villa,2100,66.66666666666667,Medium,Yearly,Unfurnished,For Rent,2024-04-05,16,Khalifa City,Abu Dhabi,24.4201314,54.57495352587594
+"Ansam, Yas Island, Abu Dhabi",125000,2,3,Apartment,1408,88.7784090909091,Medium,Yearly,Unfurnished,For Rent,2024-03-13,39,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Rawdhat Abu Dhabi, Abu Dhabi",54999,1,2,Apartment,850,64.70470588235294,Low,Yearly,Unfurnished,For Rent,2024-03-03,49,Rawdhat Abu Dhabi,Abu Dhabi,24.4200646,54.4628768
+"Tourist Club Area (TCA), Abu Dhabi",32999,0,1,Apartment,550,59.99818181818182,Low,Yearly,Unfurnished,For Rent,2023-11-03,170,Tourist Club Area (TCA),Abu Dhabi,24.495946,54.381815
+"Al Raha Beach, Abu Dhabi",69900,1,2,Apartment,1040,67.21153846153847,Medium,Yearly,Unfurnished,For Rent,2024-03-09,43,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Al Bahia, Abu Dhabi",120000,6,9,Villa,4570,26.2582056892779,Medium,Yearly,Unfurnished,For Rent,2024-03-04,48,Al Bahia,Abu Dhabi,24.5140484,54.66308214538901
+"Al Qurm Gardens, Al Muntazah, Abu Dhabi",155000,5,6,Villa,4400,35.22727272727273,High,Yearly,Unfurnished,For Rent,2024-03-12,40,Al Muntazah,Abu Dhabi,24.43014945,54.45555514302664
+"Al Dana, Al Raha Beach, Abu Dhabi",160000,3,4,Apartment,2745,58.28779599271402,High,Yearly,Unfurnished,For Rent,2024-03-15,37,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Noya, Yas Island, Abu Dhabi",155000,2,3,Townhouse,1800,86.11111111111111,High,Yearly,Unfurnished,For Rent,2024-03-11,41,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Airport Street, Abu Dhabi",36000,0,1,Apartment,450,80.0,Low,Yearly,Unfurnished,For Rent,2024-03-09,43,Airport Street,Abu Dhabi,24.2577139,55.6334536
+"Hydra Avenue Towers, City of Lights, Al Reem Island, Abu Dhabi",47000,0,1,Apartment,423,111.11111111111111,Low,Yearly,Unfurnished,For Rent,2024-03-05,47,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Airport Street, Abu Dhabi",155000,6,6,Villa,5383,28.794352591491734,High,Yearly,Unfurnished,For Rent,2024-01-27,85,Airport Street,Abu Dhabi,24.2577139,55.6334536
+"Corniche Road, Abu Dhabi",70000,3,3,Apartment,3000,23.33333333333333,Medium,Yearly,Unfurnished,For Rent,2024-03-05,47,Corniche Road,Abu Dhabi,24.4767804,54.3205997
+"Corniche Tower, Al Khalidiyah, Abu Dhabi",130000,3,4,Apartment,3000,43.333333333333336,Medium,Yearly,Unfurnished,For Rent,2023-09-13,221,Al Khalidiyah,Abu Dhabi,24.46934445,54.34880593499775
+"Al Zaab, Abu Dhabi",180000,5,6,Villa,4199,42.86734936889736,High,Yearly,Unfurnished,For Rent,2024-03-08,44,Al Zaab,Abu Dhabi,24.4669334,54.36062335861467
+"Tourist Club Area (TCA), Abu Dhabi",49999,3,2,Apartment,1850,27.026486486486487,Low,Yearly,Unfurnished,For Rent,2024-01-07,105,Tourist Club Area (TCA),Abu Dhabi,24.495946,54.381815
+"Khalidiyah Street, Al Khalidiyah, Abu Dhabi",42000,1,1,Apartment,850,49.41176470588236,Low,Yearly,Unfurnished,For Rent,2024-03-02,50,Al Khalidiyah,Abu Dhabi,24.46934445,54.34880593499775
+"Pixel, Makers District, Al Reem Island, Abu Dhabi",79200,0,1,Apartment,850,93.17647058823528,Medium,Yearly,Furnished,For Rent,2023-08-17,248,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Al Mushrif, Abu Dhabi",170000,5,6,Villa,6500,26.15384615384616,High,Yearly,Unfurnished,For Rent,2024-03-08,44,Al Mushrif,Abu Dhabi,24.44108515,54.38421822124704
+"Hamdan Street, Abu Dhabi",100000,2,4,Apartment,1860,53.763440860215056,Medium,Yearly,Unfurnished,For Rent,2024-02-01,80,Hamdan Street,Abu Dhabi,24.2479318,55.717251
+"Manazel Al Reef 2, Al Samha, Abu Dhabi",130000,3,4,Villa,2699,48.16598740274176,Medium,Yearly,Furnished,For Rent,2024-03-14,38,Al Samha,Abu Dhabi,24.6774379,54.7531126
+"Al Shamkha, Abu Dhabi",170000,9,11,Villa,8000,21.25,High,Yearly,Unfurnished,For Rent,2024-03-06,46,Al Shamkha,Abu Dhabi,24.3866584,54.7074507
+"Hamdan Street, Abu Dhabi",99999,4,6,Apartment,3000,33.333,Medium,Yearly,Unfurnished,For Rent,2024-03-01,51,Hamdan Street,Abu Dhabi,24.2425603,55.7121184
+"C76 Building, Rawdhat Abu Dhabi, Abu Dhabi",75000,2,3,Apartment,1230,60.97560975609756,Medium,Yearly,Unfurnished,For Rent,2024-03-09,43,Rawdhat Abu Dhabi,Abu Dhabi,24.4200646,54.4628768
+"Corniche Area, Abu Dhabi",154999,4,6,Apartment,3200,48.4371875,High,Yearly,Unfurnished,For Rent,2024-03-15,37,Corniche Area,Abu Dhabi,24.484107,54.35067
+"Baheen Tower, Najmat Abu Dhabi, Al Reem Island, Abu Dhabi",63000,1,2,Apartment,1216,51.80921052631579,Low,Yearly,Unfurnished,For Rent,2024-03-08,44,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Madinat Al Riyadh, Abu Dhabi",85000,4,3,Apartment,3000,28.33333333333333,Medium,Yearly,Unfurnished,For Rent,2024-03-01,51,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"Corniche Area, Abu Dhabi",134999,3,4,Apartment,2700,49.99962962962963,Medium,Yearly,Unfurnished,For Rent,2024-03-15,37,Corniche Area,Abu Dhabi,24.484107,54.35067
+"Al Muroor, Abu Dhabi",62900,1,1,Apartment,950,66.21052631578948,Low,Yearly,Unfurnished,For Rent,2024-03-03,49,Al Muroor,Abu Dhabi,24.476252,54.3726749
+"Khalifa City, Abu Dhabi",50000,2,1,Apartment,2050,24.390243902439025,Low,Yearly,Unfurnished,For Rent,2024-03-13,39,Khalifa City,Abu Dhabi,24.4201314,54.57495352587594
+"Hills Abu Dhabi, Al Maqtaa, Abu Dhabi",250000,5,6,Villa,7062,35.40073633531578,High,Yearly,Unfurnished,For Rent,2024-02-28,53,Al Maqtaa,Abu Dhabi,24.4345654,54.4543861
+"Capital Centre, Abu Dhabi",115000,2,3,Apartment,1700,67.6470588235294,Medium,Yearly,Furnished,For Rent,2023-11-01,172,Capital Centre,Abu Dhabi,24.4191359,54.4400422
+"Qaryat Al HIDD, HIDD Al Saadiyat, Saadiyat Island, Abu Dhabi",85000,1,2,Apartment,930,91.39784946236558,Medium,Yearly,Unfurnished,For Rent,2024-02-25,56,Saadiyat Island,Abu Dhabi,24.54597235,54.44368803118431
+"Noya, Yas Island, Abu Dhabi",200000,3,4,Townhouse,1753,114.09013120365088,High,Yearly,Unfurnished,For Rent,2024-03-06,46,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Noya, Yas Island, Abu Dhabi",210000,4,5,Villa,2255,93.12638580931264,High,Yearly,Unfurnished,For Rent,2024-02-27,54,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Reem Diamond, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",100000,1,2,Apartment,703,142.2475106685633,Medium,Yearly,Furnished,For Rent,2024-02-27,54,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Water's Edge, Yas Island, Abu Dhabi",100000,2,2,Apartment,1080,92.5925925925926,Medium,Yearly,Unfurnished,For Rent,2024-04-04,17,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Al Dana, Al Raha Beach, Abu Dhabi",120000,2,3,Apartment,1455,82.47422680412372,Medium,Yearly,Unfurnished,For Rent,2024-03-21,31,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Rawdhat Abu Dhabi, Abu Dhabi",39999,0,1,Apartment,500,79.998,Low,Yearly,Unfurnished,For Rent,2024-03-03,49,Rawdhat Abu Dhabi,Abu Dhabi,24.4200646,54.4628768
+"Qaryat Al HIDD, HIDD Al Saadiyat, Saadiyat Island, Abu Dhabi",205000,3,5,Apartment,2399,85.4522717799083,High,Yearly,Unfurnished,For Rent,2024-02-25,56,Saadiyat Island,Abu Dhabi,24.54597235,54.44368803118431
+"Capital Plaza Tower A, Capital Plaza, Al Markaziya, Abu Dhabi",120000,2,2,Apartment,1550,77.41935483870968,Medium,Yearly,Furnished,For Rent,2024-02-28,53,Al Markaziya,Abu Dhabi,24.4910482,54.3602411
+"Noya, Yas Island, Abu Dhabi",190000,3,4,Townhouse,2150,88.37209302325581,High,Yearly,Unfurnished,For Rent,2024-02-26,55,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Shakhbout City, Abu Dhabi",140000,3,5,Villa,4000,35.0,Medium,Yearly,Unfurnished,For Rent,2024-04-04,17,Shakhbout City,Abu Dhabi,24.3594999,54.63233435459003
+"Al Nahyan, Abu Dhabi",95000,2,3,Apartment,1400,67.85714285714286,Medium,Yearly,Unfurnished,For Rent,2024-03-05,47,Al Nahyan,Abu Dhabi,24.46446185,54.38683888474424
+"Al Ghaith Tower, Hamdan Street, Abu Dhabi",70000,1,2,Apartment,920,76.08695652173913,Medium,Yearly,Furnished,For Rent,2024-02-28,53,Hamdan Street,Abu Dhabi,24.2425603,55.7121184
+"Madinat Al Riyadh, Abu Dhabi",160000,6,9,Villa,5000,32.0,High,Yearly,Unfurnished,For Rent,2024-02-28,53,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"Capital Plaza Tower A, Capital Plaza, Al Markaziya, Abu Dhabi",215000,3,5,Apartment,2486,86.48431214802896,High,Yearly,Furnished,For Rent,2024-02-28,53,Al Markaziya,Abu Dhabi,24.4910482,54.3602411
+"Noya, Yas Island, Abu Dhabi",170000,3,4,Townhouse,1753,96.97661152310326,High,Yearly,Unfurnished,For Rent,2024-02-27,54,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Al Muroor, Abu Dhabi",61900,1,1,Apartment,960,64.47916666666667,Low,Yearly,Unfurnished,For Rent,2024-03-03,49,Al Muroor,Abu Dhabi,24.476252,54.3726749
+"Water's Edge, Yas Island, Abu Dhabi",45000,0,1,Apartment,482,93.3609958506224,Low,Yearly,Unfurnished,For Rent,2023-09-11,223,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Madinat Al Riyadh, Abu Dhabi",20000,0,1,Apartment,500,40.0,Low,Yearly,Unfurnished,For Rent,2024-03-23,29,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"Muroor Road, Al Muroor, Abu Dhabi",61900,1,1,Apartment,940,65.85106382978724,Low,Yearly,Unfurnished,For Rent,2024-03-02,50,Al Muroor,Abu Dhabi,24.476252,54.3726749
+"Khalifa City, Abu Dhabi",50000,1,2,Apartment,698,71.63323782234957,Low,Yearly,Unfurnished,For Rent,2024-02-29,52,Khalifa City,Abu Dhabi,24.4201314,54.57495352587594
+"Madinat Al Riyadh, Abu Dhabi",190000,6,9,Villa,10000,19.0,High,Yearly,Unfurnished,For Rent,2024-02-25,56,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"Corniche Road, Abu Dhabi",165000,4,4,Apartment,3735,44.17670682730924,High,Yearly,Unfurnished,For Rent,2023-09-20,214,Corniche Road,Abu Dhabi,24.4767804,54.3205997
+"Al Mushrif, Abu Dhabi",200000,5,7,Villa,4500,44.44444444444444,High,Yearly,Unfurnished,For Rent,2024-04-05,16,Al Mushrif,Abu Dhabi,24.44108515,54.38421822124704
+"Al Rayyana, Khalifa City, Abu Dhabi",97000,2,4,Apartment,1800,53.888888888888886,Medium,Yearly,Unfurnished,For Rent,2024-04-02,19,Khalifa City,Abu Dhabi,24.4201314,54.57495352587594
+"Al Muroor, Abu Dhabi",64900,1,1,Apartment,960,67.60416666666667,Low,Yearly,Unfurnished,For Rent,2024-03-04,48,Al Muroor,Abu Dhabi,24.476252,54.3726749
+"Al Jubail Island, Abu Dhabi",300000,3,5,Townhouse,2463,121.8026796589525,High,Yearly,Unfurnished,For Rent,2024-02-26,55,Al Jubail Island,Abu Dhabi,24.53170985,54.486156497090434
+"Clock Tower, Corniche Road, Abu Dhabi",70000,2,3,Apartment,1350,51.851851851851855,Medium,Yearly,Unfurnished,For Rent,2024-02-24,57,Corniche Road,Abu Dhabi,24.4767804,54.3205997
+"Al Raha Beach, Abu Dhabi",190000,4,5,Apartment,2648,71.75226586102718,High,Yearly,Unfurnished,For Rent,2024-03-01,51,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Al Shawamekh, Abu Dhabi",180000,4,6,Villa,8000,22.5,High,Yearly,Unfurnished,For Rent,2024-04-01,20,Al Shawamekh,Abu Dhabi,24.34873545,54.66280179038579
+"Al Muroor, Abu Dhabi",62900,1,1,Apartment,980,64.18367346938776,Low,Yearly,Unfurnished,For Rent,2024-03-03,49,Al Muroor,Abu Dhabi,24.476252,54.3726749
+"Aspens, Yas Acres, Yas Island, Abu Dhabi",350000,4,5,Townhouse,4845,72.23942208462333,High,Yearly,Unfurnished,For Rent,2024-02-27,54,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Madinat Al Riyadh, Abu Dhabi",21600,0,1,Apartment,500,43.2,Low,Yearly,Unfurnished,For Rent,2024-03-23,29,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"Al Falah Street, Abu Dhabi",60000,1,2,Apartment,1150,52.17391304347826,Low,Yearly,Unfurnished,For Rent,2024-02-28,53,Al Falah Street,Abu Dhabi,24.280096,55.766997
+"Mamsha Al Saadiyat, Saadiyat Cultural District, Saadiyat Island, Abu Dhabi",210000,1,2,Apartment,1430,146.85314685314685,High,Yearly,Unfurnished,For Rent,2024-03-11,41,Saadiyat Island,Abu Dhabi,24.54597235,54.44368803118431
+"Al Karamah, Abu Dhabi",190000,5,7,Villa,7000,27.142857142857142,High,Yearly,Unfurnished,For Rent,2024-03-26,26,Al Karamah,Abu Dhabi,24.4653001,54.371509
+"Khalifa City, Abu Dhabi",175000,7,8,Villa,6200,28.225806451612904,High,Yearly,Unfurnished,For Rent,2024-02-26,55,Khalifa City,Abu Dhabi,24.4201314,54.57495352587594
+"Khalifa City, Abu Dhabi",92000,2,4,Apartment,1455,63.23024054982818,Medium,Yearly,Unfurnished,For Rent,2024-02-24,57,Khalifa City,Abu Dhabi,24.4201314,54.57495352587594
+"Madinat Al Riyadh, Abu Dhabi",20000,0,1,Apartment,750,26.666666666666668,Low,Yearly,Unfurnished,For Rent,2024-03-12,40,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"Meera MAAM Residence, Corniche Area, Abu Dhabi",90000,1,2,Apartment,900,100.0,Medium,Yearly,Furnished,For Rent,2024-02-24,57,Corniche Area,Abu Dhabi,24.484107,54.35067
+"Madinat Al Riyadh, Abu Dhabi",42000,2,2,Apartment,7000,6.0,Low,Yearly,Unfurnished,For Rent,2024-04-04,17,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"Madinat Al Riyadh, Abu Dhabi",175000,6,10,Villa,2750,63.63636363636363,High,Yearly,Unfurnished,For Rent,2024-03-20,32,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"Al Dana, Al Raha Beach, Abu Dhabi",185000,3,4,Apartment,2536,72.94952681388013,High,Yearly,Unfurnished,For Rent,2024-03-15,37,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Al Jowhara Tower, Corniche Area, Abu Dhabi",90000,1,2,Apartment,900,100.0,Medium,Yearly,Furnished,For Rent,2024-02-24,57,Corniche Area,Abu Dhabi,24.484107,54.35067
+"Airport Street, Abu Dhabi",87500,3,3,Apartment,1744,50.17201834862385,Medium,Yearly,Unfurnished,For Rent,2023-09-20,214,Airport Street,Abu Dhabi,24.2577139,55.6334536
+"Capital Plaza Tower A, Capital Plaza, Al Markaziya, Abu Dhabi",170000,2,4,Apartment,1980,85.85858585858585,High,Yearly,Unfurnished,For Rent,2024-02-28,53,Al Markaziya,Abu Dhabi,24.4910482,54.3602411
+"Water's Edge, Yas Island, Abu Dhabi",75000,1,1,Apartment,800,93.75,Medium,Yearly,Furnished,For Rent,2024-02-21,60,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"The View, Danet Abu Dhabi, Abu Dhabi",115000,2,4,Apartment,1575,73.01587301587301,Medium,Yearly,Furnished,For Rent,2024-02-24,57,Danet Abu Dhabi,Abu Dhabi,24.42934995,54.43619387355408
+"Shakhbout City, Abu Dhabi",27000,0,1,Apartment,899,30.03337041156841,Low,Yearly,Unfurnished,For Rent,2024-03-26,26,Shakhbout City,Abu Dhabi,24.3594999,54.63233435459003
+"Marina Heights II, Marina Heights, Marina Square, Al Reem Island, Abu Dhabi",76999,2,3,Apartment,1119,68.81054512957998,Medium,Yearly,Unfurnished,For Rent,2024-03-05,47,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Al Bateen Villas, Al Bateen, Abu Dhabi",260000,4,6,Villa,4617,56.31362356508556,High,Yearly,Unfurnished,For Rent,2024-02-22,59,Al Bateen,Abu Dhabi,24.45138385,54.33796581892305
+"Khalifa City, Abu Dhabi",160000,7,7,Villa,5600,28.571428571428573,High,Yearly,Unfurnished,For Rent,2024-02-21,60,Khalifa City,Abu Dhabi,24.4201314,54.57495352587594
+"Capital Plaza Tower A, Capital Plaza, Al Markaziya, Abu Dhabi",190000,3,5,Apartment,2486,76.42799678197909,High,Yearly,Unfurnished,For Rent,2024-02-28,53,Al Markaziya,Abu Dhabi,24.4910482,54.3602411
+"Building 38, Al Reef Downtown, Al Reef, Abu Dhabi",85000,3,4,Apartment,1560,54.48717948717949,Medium,Yearly,Unfurnished,For Rent,2024-02-28,53,Al Reef,Abu Dhabi,24.4664366,54.65689142777212
+"Hydra Avenue Towers, City of Lights, Al Reem Island, Abu Dhabi",54000,0,1,Apartment,514,105.05836575875486,Low,Yearly,Furnished,For Rent,2024-03-29,23,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Noya, Yas Island, Abu Dhabi",145000,2,4,Townhouse,1350,107.4074074074074,High,Yearly,Unfurnished,For Rent,2024-02-19,62,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Mohamed Bin Zayed Centre, Mohammed Bin Zayed City, Abu Dhabi",25000,0,1,Apartment,899,27.808676307007783,Low,Yearly,Unfurnished,For Rent,2024-03-27,25,Mohammed Bin Zayed City,Abu Dhabi,24.3339589,54.5535564
+"The Gate Tower 2, The Gate Tower, Shams Gate District, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",240000,4,6,Penthouse,4800,50.0,High,Yearly,Unfurnished,For Rent,2024-02-22,59,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Shakhbout City, Abu Dhabi",140000,5,6,Villa,5587,25.05817075353499,Medium,Yearly,Unfurnished,For Rent,2024-04-04,17,Shakhbout City,Abu Dhabi,24.3594999,54.63233435459003
+"Ocean Terrace Residence, Marina Square, Al Reem Island, Abu Dhabi",105000,2,4,Apartment,1508,69.62864721485411,Medium,Yearly,Unfurnished,For Rent,2024-03-15,37,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Desert Style, Al Reef Villas, Al Reef, Abu Dhabi",160000,5,6,Villa,2579,62.03955021326095,High,Yearly,Unfurnished,For Rent,2023-09-04,230,Al Reef,Abu Dhabi,24.4664366,54.65689142777212
+"Shakhbout City, Abu Dhabi",140000,7,8,Villa,7200,19.444444444444443,Medium,Yearly,Unfurnished,For Rent,2024-02-21,60,Shakhbout City,Abu Dhabi,24.3594999,54.63233435459003
+"Al Rayyana, Khalifa City, Abu Dhabi",99000,2,4,Apartment,1845,53.65853658536585,Medium,Yearly,Unfurnished,For Rent,2024-02-16,65,Khalifa City,Abu Dhabi,24.4201314,54.57495352587594
+"Meera MAAM Residence, Corniche Area, Abu Dhabi",135000,2,3,Apartment,1300,103.84615384615384,Medium,Yearly,Furnished,For Rent,2024-02-24,57,Corniche Area,Abu Dhabi,24.484107,54.35067
+"Najmat Abu Dhabi, Al Reem Island, Abu Dhabi",84900,2,4,Apartment,1700,49.94117647058823,Medium,Yearly,Unfurnished,For Rent,2024-02-17,64,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Noya, Yas Island, Abu Dhabi",160000,2,3,Townhouse,1819,87.96041781198461,High,Yearly,Unfurnished,For Rent,2024-02-20,61,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Al Khalidiyah, Abu Dhabi",55000,3,3,Apartment,1549,35.5067785668173,Low,Yearly,Unfurnished,For Rent,2024-02-17,64,Al Khalidiyah,Abu Dhabi,24.46934445,54.34880593499775
+"Najmat Abu Dhabi, Al Reem Island, Abu Dhabi",60000,1,2,Apartment,1000,60.0,Low,Yearly,Unfurnished,For Rent,2024-02-17,64,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Water's Edge, Yas Island, Abu Dhabi",85000,2,2,Apartment,1075,79.06976744186046,Medium,Yearly,Unfurnished,For Rent,2023-08-22,243,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Pixel, Makers District, Al Reem Island, Abu Dhabi",119991,2,4,Apartment,1345,89.21263940520446,Medium,Yearly,Unfurnished,For Rent,2024-02-15,66,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Al Nahyan, Abu Dhabi",65000,1,2,Apartment,936,69.44444444444444,Low,Yearly,Unfurnished,For Rent,2023-06-16,310,Al Nahyan,Abu Dhabi,24.46446185,54.38683888474424
+"Madinat Al Riyadh, Abu Dhabi",26000,1,1,Apartment,650,40.0,Low,Yearly,Unfurnished,For Rent,2024-03-21,31,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"Al Bateen, Abu Dhabi",190000,8,6,Villa,5016,37.87878787878788,High,Yearly,Unfurnished,For Rent,2024-02-19,62,Al Bateen,Abu Dhabi,24.45138385,54.33796581892305
+"Al Rayyana, Khalifa City, Abu Dhabi",118000,3,4,Apartment,2250,52.44444444444444,Medium,Yearly,Unfurnished,For Rent,2024-02-21,60,Khalifa City,Abu Dhabi,24.4201314,54.57495352587594
+"Qaryat Al HIDD, HIDD Al Saadiyat, Saadiyat Island, Abu Dhabi",230000,3,4,Apartment,2144,107.27611940298507,High,Yearly,Unfurnished,For Rent,2024-02-19,62,Saadiyat Island,Abu Dhabi,24.54597235,54.44368803118431
+"Al Reem Island, Abu Dhabi",99999,2,4,Apartment,1600,62.499375,Medium,Yearly,Unfurnished,For Rent,2024-02-16,65,Al Reem Island,Abu Dhabi,24.4935984,54.40784050903402
+"Noya, Yas Island, Abu Dhabi",184990,3,4,Apartment,1780,103.92696629213484,High,Yearly,Unfurnished,For Rent,2024-02-15,66,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Al Hadeel, Al Raha Beach, Abu Dhabi",90000,1,1,Apartment,1042,86.37236084452975,Medium,Yearly,Unfurnished,For Rent,2024-02-09,72,Al Raha Beach,Abu Dhabi,24.48593095,54.60093932996362
+"Contemporary Style, Al Reef Villas, Al Reef, Abu Dhabi",105000,3,4,Villa,1873,56.05979711692472,Medium,Yearly,Unfurnished,For Rent,2024-02-15,66,Al Reef,Abu Dhabi,24.4664366,54.65689142777212
+"Bloom Gardens, Al Matar, Abu Dhabi",210000,3,3,Villa Compound,3464,60.62355658198614,High,Yearly,Unfurnished,For Rent,2023-02-13,433,Al Matar,Abu Dhabi,24.4352701,54.4406788
+"Al Remah Tower, Al Hosn, Abu Dhabi",65000,1,2,Apartment,1130,57.52212389380531,Low,Yearly,Unfurnished,For Rent,2024-02-19,62,Al Hosn,Abu Dhabi,24.47311215,54.36330129768281
+"West Yas, Yas Island, Abu Dhabi",300000,4,5,Villa,6450,46.51162790697674,High,Yearly,Unfurnished,For Rent,2024-02-21,60,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Madinat Al Riyadh, Abu Dhabi",125000,7,8,Villa,3400,36.76470588235294,Medium,Yearly,Unfurnished,For Rent,2024-02-16,65,Madinat Al Riyadh,Abu Dhabi,24.353232,54.749892
+"Meera MAAM Residence, Corniche Area, Abu Dhabi",100000,1,2,Apartment,950,105.26315789473684,Medium,Yearly,Furnished,For Rent,2024-02-24,57,Corniche Area,Abu Dhabi,24.484107,54.35067
+"Water's Edge, Yas Island, Abu Dhabi",140000,3,4,Apartment,1482,94.46693657219971,Medium,Yearly,Unfurnished,For Rent,2024-03-21,31,Yas Island,Abu Dhabi,24.4940223,54.6073721
+"Capital Plaza Tower A, Capital Plaza, Al Markaziya, Abu Dhabi",80000,1,2,Apartment,930,86.02150537634408,Medium,Yearly,Unfurnished,For Rent,2024-02-28,53,Al Markaziya,Abu Dhabi,24.4910482,54.3602411
+"Al Falah Street, Abu Dhabi",80000,2,3,Apartment,1000,80.0,Medium,Yearly,Unfurnished,For Rent,2024-02-13,68,Al Falah Street,Abu Dhabi,24.280096,55.766997
+"Shakhbout City, Abu Dhabi",140000,6,8,Villa,10000,14.0,Medium,Yearly,Unfurnished,For Rent,2024-02-11,70,Shakhbout City,Abu Dhabi,24.3594999,54.63233435459003
+"Shakhbout City, Abu Dhabi",90000,3,5,Apartment,4250,21.176470588235293,Medium,Yearly,Unfurnished,For Rent,2024-02-18,63,Shakhbout City,Abu Dhabi,24.3594999,54.63233435459003
+"Fairmont Marina Residences, The Marina, Abu Dhabi",225000,1,2,Apartment,1087,206.9917203311868,High,Yearly,Furnished,For Rent,2024-04-04,17,The Marina,Abu Dhabi,24.479853,54.319951
+"Al Bateen Airport, Al Matar, Abu Dhabi",61900,1,1,Apartment,920,67.28260869565217,Low,Yearly,Unfurnished,For Rent,2024-03-03,49,Al Matar,Abu Dhabi,24.4352701,54.4406788
+"Al Forsan Village, Khalifa City, Abu Dhabi",292600,5,5,Villa,9731,30.06885212208406,High,Yearly,Unfurnished,For Rent,2024-02-09,72,Khalifa City,Abu Dhabi,24.4201314,54.57495352587594
+"Al Najda Street, Abu Dhabi",69999,2,2,Apartment,1400,49.99928571428571,Medium,Yearly,Unfurnished,For Rent,2024-02-11,70,Al Najda Street,Abu Dhabi,24.4913003,54.3695437
+"Corniche Area, Abu Dhabi",90000,3,4,Apartment,1870,48.1283422459893,Medium,Yearly,Unfurnished,For Rent,2023-10-15,189,Corniche Area,Abu Dhabi,24.484107,54.35067
+"Saadiyat Beach Residences, Saadiyat Beach, Saadiyat Island, Abu Dhabi",114999,2,3,Apartment,1850,62.16162162162162,Medium,Yearly,Unfurnished,For Rent,2024-03-11,41,Saadiyat Island,Abu Dhabi,24.54597235,54.44368803118431
